@@ -1,1091 +1,1085 @@
 [PEASHOOTER]
-Lanzaguisantes
+Peashooter
 
 [PEASHOOTER_TOOLTIP]
-Lanza guisantes al enemigo.
+Shoots peas at the enemy.
 
 [SUNFLOWER]
-Girasol
+Sunflower
 
 [SUNFLOWER_TOOLTIP]
-Proporciona sol.
+Provides sunlight.
 
 [CHERRY_BOMB]
-Petacereza
+Cherry Bomb
 
 [CHERRY_BOMB_TOOLTIP]
-Explota con los zombis de un area.
+Explodes with the zombies in an area.
 
 [WALL_NUT]
-Nuez
+Wall Nut
 
 [WALL_NUT_TOOLTIP]
-Bloquea a los zombis y protege a tus plantas.
+Blocks zombies and protects your plants.
 
 [REPEATER]
-Repetidora
+Repeater
 
 [REPEATER_TOOLTIP]
-Dispara dos guisantes a la vez.
+Shoots two peas at once.
 
 [POTATO_MINE]
-Patatapum
+Potato Mine
 
 [POTATO_MINE_TOOLTIP]
-Explota al contacto, pero tarda en armarse.
+Explodes on contact, but takes time to arm.
 
 [SNOW_PEA]
-Hielaguisantes
+Snow Pea
 
 [SNOW_PEA_TOOLTIP]
-Lanza guisantes helados que ralentizan y danan.
+Shoots frozen peas that slow down and damage zombies.
 
 [CHOMPER]
-Planta carronivora
+Chomper
 
 [CHOMPER_TOOLTIP]
-Devora un zombi entero, pero es vulnerable mientras mastica
+Devours an entire zombie, but is vulnerable while chewing.
 
 [PUFF_SHROOM]
-Seta desesporada
+Puff-shroom
 
 [PUFF_SHROOM_TOOLTIP]
-Lanza esporas a corta distancia.
+Shoots spores at short range.
 
 [SUN_SHROOM]
-Seta solar
+Sun mushroom
 
 [SUN_SHROOM_TOOLTIP]
-Da poco sol al principio y normal despues.
+Gives little sun at first, then normal.
 
 [FUME_SHROOM]
-Humoseta
+Smoke mushroom
 
 [FUME_SHROOM_TOOLTIP]
-Exhala humos que traspasan puertas.
+Exhales smoke that passes through doors.
 
 [GRAVE_BUSTER]
-Comepiedras
+Grave Buster
 
 [GRAVE_BUSTER_TOOLTIP]
-Plantalo sobre una tumba para quitarla.
+Plant it on a grave to remove it.
 
 [HYPNO_SHROOM]
-Hipnoseta
+Hypno Shroom
 
 [HYPNO_SHROOM_TOOLTIP]
-Hace que un zombi luche por ti.
+Makes a zombie fight for you.
 
 [SCAREDY_SHROOM]
-Seta miedica
+Scaredy Shroom
 
 [SCAREDY_SHROOM_TOOLTIP]
-Dispara desde lejos y se esconde si se acerca un zombi.
+Shoots from afar and hides if a zombie approaches.
 
 [ICE_SHROOM]
-Seta congelada
+Frozen mushroom
 
 [ICE_SHROOM_TOOLTIP]
-Paraliza a los zombis en pantalla por un tiempo.
+Paralyzes zombies on screen for a short time.
 
 [DOOM_SHROOM]
-Petaseta
+Doomshroom
 
 [DOOM_SHROOM_TOOLTIP]
-Explota y deja un crater a su alrededor.
+Explodes and leaves a crater around it.
 
 [LILY_PAD]
-Nenufar
+Lily Pad
 
 [LILY_PAD_TOOLTIP]
-Puedes plantar plantas no acuaticas sobre ella.
+You can plant non-aquatic plants on it.
 
 [SQUASH]
-Apisonaflor
+Squash
 
 [SQUASH_TOOLTIP]
-Aplasta zombis.
+Crushing zombies.
 
 [THREEPEATER]
-Tripitidora
+Three-peater
 
 [THREEPEATER_TOOLTIP]
-Dispara guisantes en tres lineas.
+Shoots peas in three rows.
 
 [TANGLE_KELP]
-Zampalga
+Tangle kelp
 
 [TANGLE_KELP_TOOLTIP]
-Planta acuatica. Succiona zombis bajo el agua.
+Aquatic plant. Suck zombies underwater.
 
 [JALAPENO]
 Jalapeno
 
 [JALAPENO_TOOLTIP]
-Acaba con los zombis de una linea entera.
+Kills all zombies in a single row.
 
 [SPIKEWEED]
-Pinchohierba
+Spikeweed
 
 [SPIKEWEED_TOOLTIP]
-Saca pinchos y dana a quien le ponga la pierna encima.
+Shoots spikes and damages anyone who steps on it.
 
 [TORCHWOOD]
-Plantorcha
+Torchwood
 
 [TORCHWOOD_TOOLTIP]
-Los guisantes que la sobrevuelen prenderan.
+Peas flying over it will catch fire.
 
 [TALL_NUT]
-Nuez cascara-rabias
+Tall Nut
 
 [TALL_NUT_TOOLTIP]
-Planta pesada que no puede rebasarse.
+A heavy plant that cannot be overrun.
 
 [SEA_SHROOM]
-Marseta
+Sea Shroom
 
 [SEA_SHROOM_TOOLTIP]
-Planta acuatica que dispara esporas de cerca.
+An aquatic plant that shoots spores from close range.
 
 [PLANTERN]
-Planterna
+Plantern
 
 [PLANTERN_TOOLTIP]
-Ilumina un area permitiendo ver en la niebla.
+Illuminates an area, allowing you to see through fog.
 
 [CACTUS]
 Cactus
 
 [CACTUS_TOOLTIP]
-Dispara pinchos que revientan globos.
+Shoots spikes that pop balloons.
 
 [BLOVER]
-Trebolador
+Blover
 
 [BLOVER_TOOLTIP]
-Sopla y aleja los globos y la niebla.
+Blows away balloons and fog.
 
 [SPLIT_PEA]
-Bipetidora
+Split Pea
 
 [SPLIT_PEA_TOOLTIP]
-Dispara guisantes adelante y atras.
+Shoots peas forward and backward.
 
 [STARFRUIT]
-Frustrella
+Star Fruit
 
 [STARFRUIT_TOOLTIP]
-Dispara estrellas en 5 direcciones.
+Shoots stars in 5 directions.
 
 [PUMPKIN]
-Calabaza
+Pumpkin
 
 [PUMPKIN_TOOLTIP]
-Protege a otras plantas.
+Protects other plants.
 
 [MAGNET_SHROOM]
-Magnetoseta
+Magnet Shroom
 
 [MAGNET_SHROOM_TOOLTIP]
-Desarma de cascos y objetos metalicos a los zombis.
+Disarms zombies' helmets and metal objects.
 
 [CABBAGE_PULT]
-Coltapulta
+Cabbage Pult
 
 [CABBAGE_PULT_TOOLTIP]
-Catapulta coles al enemigo.
+Catapults cabbages at the enemy.
 
 [FLOWER_POT]
-Maceta
+Flower Pot
 
 [FLOWER_POT_TOOLTIP]
-Te permite plantar en el tejado.
+Allows you to plant on the roof.
 
 [KERNEL_PULT]
-Lanzamaiz
+Corn Launcher
 
 [KERNEL_PULT_TOOLTIP]
-Arroja maiz y mantequilla a los zombis.
+Throws corn and butter at zombies.
 
 [GARLIC]
-Ajo
+Garlic
 
 [GARLIC_TOOLTIP]
-Repele zombis a otras lineas.
+Repels zombies to other lanes.
 
 [UMBRELLA_LEAF]
-Paraplanta
+Plant umbrella
 
 [UMBRELLA_LEAF_TOOLTIP]
-Protege a las plantas cercanas de objetos arrojadizos.
+Protects nearby plants from projectiles.
 
 [MARIGOLD]
-Margarita
+Marigold
 
 [MARIGOLD_TOOLTIP]
-Produce monedas de oro y plata.
+Produces gold and silver coins.
 
 [MELON_PULT]
-Melonpulta
+Melonpult
 
 [MELON_PULT_TOOLTIP]
-Inflige grandes danos a grupos de zombis.
+Inflicts heavy damage on groups of zombies.
 
 [GATLING_PEA]
-Guisantralladora
+Gatling Pea
 
 [GATLING_PEA_TOOLTIP]
-Dispara 4 guisante a la vez.
-(requiere Repetidora)
+Shoots 4 peas at once.
+(requires Repeater)
 
 [TWIN_SUNFLOWER]
-Birasol
+Twin Sunflower
 
 [TWIN_SUNFLOWER_TOOLTIP]
-Proporciona el doble de sol que el Girasol.
-(requiere Girasol)
+Provides twice as much sun as the Sunflower.
+(requires Sunflower)
 
 [GLOOM_SHROOM]
-Gasoseta
+Gas Shroom
 
 [GLOOM_SHROOM_TOOLTIP]
-Exhala gases pesados a su alrededor.
-(requiere Humoseta)
+Exhaled heavy gases around it.
+(requires Smoke Shroom)
 
 [CATTAIL]
-Rabo de gato
+Cattail
 
 [CATTAIL_TOOLTIP]
-Ataca en una linea y revienta los globos.
-(requiere Nenufar)
+Attacks in a line and pops balloons.
+(requires Water Lily)
 
 [WINTER_MELON]
-Melonpulta congelada
+Frozen Melonpult
 
 [WINTER_MELON_TOOLTIP]
-Causa grandes danos a grupos de zombis.
-(requiere Melonpulta)
+Deals heavy damage to groups of zombies.
+(requires Melonpult)
 
 [GOLD_MAGNET]
-Magnetoseta dorada
+Golden Magneto
 
 [GOLD_MAGNET_TOOLTIP]
-Recoge monedas y diamantes.
-(requiere Magnoseta)
+Collects coins and diamonds.
+(requires Magnoseta)
 
 [SPIKEROCK]
-Pinchorroca
+Spikerock
 
 [SPIKEROCK_TOOLTIP]
-Asoma pinchos que danan a los zombis que la pisan.
-(requiere Pinchohierba)
+Pops up spikes that damage zombies that step on them.
+(requires Pinchohierba)
 
 [COB_CANNON]
-Mazorcanon
+Corncob Cannon
 
 [COB_CANNON_TOOLTIP]
-Lanza mazorcas de maiz letales.
-(requiere Lanzamaiz x 2)
+Shoots deadly corn cobs.
+(requires Corn Shooter x 2)
 
 [IMITATER]
-Imitadora
+Imitator
 
 [IMITATER_TOOLTIP]
-Duplica cualquier planta.
+Duplicates any plant.
 
 [COFFEE_BEAN]
-Grano de cafe
+Coffee Bean
 
 [COFFEE_BEAN_TOOLTIP]
-Plantalo en una seta para despertarla
+Plant it on a mushroom to wake it up.
 
 [EXPLODE_O_NUT]
-Cascanueces
+Nutcracker
 
 [EXPLODE_O_NUT_TOOLTIP]
-Explota al contacto.
+Explodes on contact.
 
 [GIANT_WALLNUT]
-Nuez gigante
+Giant Wallnut
 
 [SPROUT]
-Brote
+Sprout
 
 [MARIGOLD_SPROUT]
-Brote de margarita
+Marigold Sprout
 
 [ZOMBIE]
 Zombie
 
 [FLAG_ZOMBIE]
-Zombi abanderado
+Flag Zombie
 
 [CONEHEAD_ZOMBIE]
-Zombi caracono
+Conehead Zombie
 
 [BUCKETHEAD_ZOMBIE]
-Zombi cubililetero
+Buckethead Zombie
 
 [POLE_VAULTING_ZOMBIE]
-Saltador de pertiga
+Pole Vaulting Zombie
 
 [NEWSPAPER_ZOMBIE]
-Zombi lector
+Newspaper Zombie
 
 [SCREEN_DOOR_ZOMBIE]
-Zombi portero
+Goalkeeper Zombie
 
 [FOOTBALL_ZOMBIE]
-Zombi deportista
+Athletic Zombie
 
 [DANCING_ZOMBIE]
-Zombi bailon
+Dancing Zombie
 
 [BACKUP_DANCER]
-Zombi extra
+Extra Zombie
 
 [DUCKY_TUBE_ZOMBIE]
-Zombi playero
+Beach Zombie
 
 [SNORKEL_ZOMBIE]
-Zombi buzo
+Diving Zombie
 
 [ZOMBONI]
 Zombictor
 
 [ZOMBIE_BOBSLED_TEAM]
-Zombi de Bobsleigh
+Bobsleigh Zombie
 
 [DOLPHIN_RIDER_ZOMBIE]
-Zombi con delfin
+Zombie with Dolphin
 
 [JACK_IN_THE_BOX_ZOMBIE]
-Zombi con cajita
+Box Zombie
 
 [BALLOON_ZOMBIE]
-Zombi con globo
+Balloon Zombie
 
 [DIGGER_ZOMBIE]
-Zombi picado
+Digger Zombie
 
 [POGO_ZOMBIE]
-Zombi saltarin
+Pogo Zombie
 
 [ZOMBIE_YETI]
-Zombi Yeti
+Yeti Zombie
 
 [BUNGEE_ZOMBIE]
-Zombi colgao
+Hanging Zombie
 
 [LADDER_ZOMBIE]
-Zombi escalador
+Climbing Zombie
 
 [CATAPULT_ZOMBIE]
-Zombipulta
+Zombie Catapult
 
 [GARGANTUAR]
-Zombistein
+Zombie Stein
 
 [REDEYED_GARGANTUAR]
-Megazombistein
+Mega Zombie Stein
 
 [IMP]
-Zombidito
+Little Zombie
 
 [BOSS]
-Dr. Zombi
+Dr. Zombie
 
 [PEASHOOTER_DESCRIPTION]
-Los Lanzaguisantes son tu primera linea defensiva. Disparan guisantes a los zombis.
+Peashooters are your first line of defense. They shoot peas at zombies.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
+{KEYWORD}Attack:{STAT} normal
 {SHORTLINE}
-{FLAVOR}¿Como puede una planta crecer y disparar guisantes tan rapido? Lanzaguisantes dice: 
-"Entrega, trabajo duro y una dieta rica en rayos de sol y saludable
-dioxido de carbono lo hacen posible."
+{FLAVOR}How can a plant grow and shoot peas so fast? Pea Shooter says: 
+"Dedication, hard work, and a diet rich in sunshine and healthy
+carbon dioxide make it possible."
 
 [SUNFLOWER_DESCRIPTION]
-Los Girasoles son esenciales para producir sol extra. ¡Prueba a plantar tantos como puedas!
+Sunflowers are essential for producing extra sun. Try to plant as many as you can!
 {SHORTLINE}
-{KEYWORD}Produccion de sol:{STAT} normal
+{KEYWORD}Sun production:{STAT} normal
 {SHORTLINE}
-{FLAVOR}El Girasol no puede resistir moverse al son de la melodia. ¿Cual? La melodia
-de la orquesta de la vida de la Tierra, una melodia en una frecuencia que solo los Girasoles pueden oir.
+{FLAVOR}The Sunflower can't resist moving to the melody. Which one? The melody
+of the orchestra of life on Earth, a melody at a frequency that only Sunflowers can hear.
 
 [WALL_NUT_DESCRIPTION]
-La Nuez tiene una cascara muy dura. Protege con ella a tus otras plantas.
+The Walnut has a very hard shell. Use it to protect your other plants.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} alta
+{KEYWORD}Hardness:{STAT} high
 {SHORTLINE}
-{FLAVOR}"La gente se pregunta que siento al morderme los zombis constantemente," dice Nuez.
-"No tengo mucho sentido del tacto, asi que para mi es como un cosquilleo, como un buen masaje de espalda."
+{FLAVOR}“People wonder how it feels to have zombies constantly biting me,” says Walnut.
+“I don't have much sense of touch, so to me it's like a tickle, like a nice back massage.”
 
 [CHERRY_BOMB_DESCRIPTION]
-La Petacereza hara explotar los zombis de un area. Su alcance es corto, asi que plantala en el mogollon.
+The Petacereza will blow up zombies in an area. Its range is short, so plant it in the crowd.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} masivo
-{KEYWORD}Alcance:{STAT} zombis de un area mediana
-{KEYWORD}Uso:{STAT} unico e instantaneo
+{KEYWORD}Attack:{STAT} Massive
+{KEYWORD}Range:{STAT} Zombies in a medium area
+{KEYWORD}Use:{STAT} Single and instantaneous
 {SHORTLINE}
-{FLAVOR}"¡Quiero explotar!", dice la Petacereza. "No, ¡mola mas detonar!", dice
-su hermanita. Tras un intenso debate llegaron a un acuerdo: '¡explonar!'
+{FLAVOR}“I want to explode!” says the Petacereza. “No, detonating is cooler!” says
+her little sister. After an intense debate, they reached an agreement: 'explode!'
 
 [POTATO_MINE_DESCRIPTION]
-Patatapum asesta un buen golpe, pero necesita armarse antes. Plantala delante de los zombis para que explote al contacto.
+Patatapum packs a punch, but it needs to be armed first. Plant it in front of zombies to detonate on contact.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} masivo
-{KEYWORD}Alcance:{STAT} todos los zombis en un area pequena
-{KEYWORD}Uso:{STAT} unico, activacion retardada
+{KEYWORD}Attack:{STAT} Massive
+{KEYWORD}Range:{STAT} all zombies in a small area
+{KEYWORD}Use:{STAT} single, delayed activation
 {SHORTLINE}
-{FLAVOR}Algunos dicen que Patatapum es muy vaga, que lo deja todo para el ultimo
-minuto. Ella no dice nada; esta muy ocupada planeando estrategias de inversion.
+{FLAVOR}Some say Patatapum is very lazy, leaving everything to the last minute.
+She doesn't say anything; she's too busy planning investment strategies.
 
 [REPEATER_DESCRIPTION]
-La Repetidora dispara dos guisantes a la vez.
+The Repeater fires two peas at once.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal (por guisante)
-{KEYWORD}Vel. de disparo:{STAT} x 2
+{KEYWORD}Attack:{STAT} normal (per pea)
+{KEYWORD}Firing speed:{STAT} x 2
 {SHORTLINE}
-{FLAVOR}Repetidora es muy dura; se crio en las calles. No consiente chulerias ni a plantas
-ni a zombis, y dispara guisantes para guardar las distancias. Aunque en verdad, Repetidora esta falta de carino.
+{FLAVOR}Repeater is very tough; she grew up on the streets. She doesn't put up with nonsense from plants
+or zombies, and she shoots peas to keep her distance. But in truth, Repetidora is just lacking affection.
 
 [SNOW_PEA_DESCRIPTION]
-El Hielaguisantes lanza guisantes congelados. Dana y ralentiza al enemigo.
+The Hielaguisantes shoots frozen peas. It damages and slows down the enemy.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal, ralentiza zombis
+{KEYWORD}Attack:{STAT} normal, slows down zombies
 {SHORTLINE}
-{FLAVOR}Siempre le dicen que es un tipo "frio", que nunca se "calienta" la cabeza.
-Y es que no hay nada que lo deje mas "helado" de lo que ya esta.
+{FLAVOR}People always tell him he's a “cold” guy who never “heats up.”
+And there's nothing that makes him any “colder” than he already is.
 
 [CHOMPER_DESCRIPTION]
-Las Carronivoras engullen zombis enteros, pero son vulnerables mientras mastican.
+Chompers gobble up whole zombies, but they're vulnerable while chewing.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} masivo
-{KEYWORD}Alcance:{STAT} muy corto
-{KEYWORD}Especial:{STAT} largo intervalo de masticacion
+{KEYWORD}Attack:{STAT} massive
+{KEYWORD}Range:{STAT} very short
+{KEYWORD}Special:{STAT} long chewing interval
 {SHORTLINE}
-{FLAVOR}Estuvo a punto de obtener un papel de doble en un musical del clasico
-'La pequena tienda de los horrores', pero su manager pidio mas, demasiado. Planta carroninova
-no le guarda rencor. "Asi es este mundillo."
+{FLAVOR}She was on the verge of landing a double role in a musical adaptation of the classic
+‘The Little Shop of Horrors’, but her manager asked for too much. Carroninova Plant
+doesn't hold a grudge. “That's just how this business is.”
 
 [PUFF_SHROOM_DESCRIPTION]
-La Seta desesporada sale barata, pero solo dispara de cerca.
+The Desperate Shroom is cheap, but it only shoots at close range.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Alcance:{STAT} corto
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Range:{STAT} short
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}"Me entere de que los zombis existian hace nada", afirma Seta desesporada. "Como muchas
-otras setas creia que solo existian en las peliculas. Asi que cuando vi que eran reales, ¡me desespore de miedo!"
+{FLAVOR}“I just found out about zombies,” says Desperate Shroom. "Like many
+other mushrooms, I thought they only existed in movies. So when I saw they were real, I was scared out of my mind!"
 
 [SUN_SHROOM_DESCRIPTION]
-La Seta solar produce poco sol al principio y normal despues.
+The Sun Shroom produces little sun at first and normal sun later.
 {SHORTLINE}
-{KEYWORD}Produccion de sol:{STAT} lenta, luego normal
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Sun production:{STAT} slow, then normal
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}La Seta solar odia el sol. Lo odia tanto que cuando su cuerpo lo crea, lo escupe
-enseguida. No lo soporta. Tampoco es muy sociable: prefiere quedarse en la sombra.
-
+{FLAVOR}The Sun Shroom hates the sun. It hates it so much that when its body creates it, it spits it out
+right away. It can't stand it. It's not very sociable either: it prefers to stay in the shade.
 [FUME_SHROOM_DESCRIPTION]
-La Humoseta exhala humos que traspasan las puertas con rejilla.
+The Humoseta exhales smoke that passes through barred doors.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal, traspasa las puertas
-{KEYWORD}Alcance:{STAT} todo zombi que toque el humo
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Attack:{STAT} normal, passes through doors
+{KEYWORD}Range:{STAT} any zombie that touches the smoke
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}"Tenia un empleo basura haciendo esporas para levadura," declara Humoseta. 
-"La Seta desesporada, bendita sea, me hablo de esta gran oportunidad de aniquilar zombis. Ahora se que hago algo de provecho."
+{FLAVOR}“I had a crappy job making yeast spores,” says Smokeset. 
+“The Despore Mushroom, bless it, told me about this great opportunity to annihilate zombies. Now I know I'm doing something worthwhile.”
 
 [GRAVE_BUSTER_DESCRIPTION]
-Planta un Comepiedras sobre una lapida para quitarla.
+Plants a Stone Eater on a gravestone to remove it.
 {SHORTLINE}
-{KEYWORD}Uso:{STAT} unico, sobre lapidas
-{KEYWORD}Especial:{STAT} quita lapidas
+{KEYWORD}Use:{STAT} unique, on gravestones
+{KEYWORD}Special:{STAT} removes gravestones
 {SHORTLINE}
-{FLAVOR}Pese a sus malas apariencias, Comepiedras quiere que todo el mundo sepa que ama
-a los gatitos y que es voluntario en un centro de rehabilitacion para zombis. "Es lo menos que puedo hacer", declara.
+{FLAVOR}Despite his bad looks, Stone Eater wants everyone to know that he loves
+kittens and volunteers at a zombie rehabilitation center. “It's the least I can do,” he says.
 
 [HYPNO_SHROOM_DESCRIPTION]
-Si un zombi ingiere una Hipnoseta, dara media vuelta y luchara por ti.
+If a zombie eats a Hypnoseta, it will turn around and fight for you.
 {SHORTLINE}
-{KEYWORD}Uso:{STAT} unico, al contacto
-{KEYWORD}Especial:{STAT} el zombi luchara por ti.
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Use:{STAT} unique, on contact
+{KEYWORD}Special:{STAT} the zombie will fight for you.
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}"Los zombis son nuestros amigos," sentencia Hipnoseta. "Son unos incomprendidos
-que desempenan una importante labor en el ecosistema. Deberiamos hacer mas por acercar nuestras posturas."
-
+{FLAVOR}“Zombies are our friends,” says Hypnoseta. "They are misunderstood
+and play an important role in the ecosystem. We should do more to bring our positions closer together."
 [SCAREDY_SHROOM_DESCRIPTION]
-Las Setas miedicas disparan de lejos y se esconden cuando el enemigo se acerca.
+Scaredy Shrooms shoot from afar and hide when the enemy approaches.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Especial:{STAT} deja de disparar con el enemigo cerca.
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Special:{STAT} stops shooting when the enemy is near.
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}"¿Quien anda ahi?", tartamudea Seta miedica con un hilo de voz. "Vete. No quiero ver a nadie. A no ser que seas el jardinero..."
+{FLAVOR}“Who's there?” stammers the Scaredy Shroom in a thin voice. “Go away. I don't want to see anyone. Unless you're the gardener...”
 
 [ICE_SHROOM_DESCRIPTION]
-La Seta congelada paraliza a todos los zombis en pantalla.
+The Ice Shroom freezes all zombies on screen.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} muy debil, paraliza a los zombis.
-{KEYWORD}Alcance:{STAT} todos los zombis en pantalla
-{KEYWORD}Uso:{STAT} unico e instantaneo
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Attack:{STAT} Very weak, paralyzes zombies.
+{KEYWORD}Range:{STAT} All zombies on screen.
+{KEYWORD}Use:{STAT} Single and instantaneous.
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}Seta congelada tiene el ceno fruncido por un accidente que tuvo que le dejo los nervios faciales paralizados.
+{FLAVOR}Frozen Mushroom has a furrowed brow due to an accident that left his facial nerves paralyzed.
 
 [DOOM_SHROOM_DESCRIPTION]
-Petaseta lo destruye todo en una gran area y deja un crater en el que no se puede replantar.
+Petaseta destroys everything in a large area and leaves a crater where nothing can be replanted.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} masivo
-{KEYWORD}Alcance:{STAT} todos los zombis de una gran area
-{KEYWORD}Uso:{STAT} unico e instantaneo
-{KEYWORD}Especial:{STAT} deja un crater.
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Attack:{STAT} massive
+{KEYWORD}Range:{STAT} all zombies in a large area
+{KEYWORD}Use:{STAT} single and instantaneous
+{KEYWORD}Special:{STAT} leaves a crater.
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}"Tienes suerte de tenerme en tu bando"
+{FLAVOR}“You're lucky to have me on your side.”
 
 [LILY_PAD_DESCRIPTION]
-Puedes plantar sobre los Nenufares plantas no acuaticas.
+You can plant non-aquatic plants on Lily Pads.
 {SHORTLINE}
-{KEYWORD}Especial:{STAT} plantas no acuaticas sobre ellas
-{AQUATIC}Plantar en agua
+{KEYWORD}Special:{STAT} non-aquatic plants on them
+{AQUATIC}Plant in water
 {SHORTLINE}
-{FLAVOR}Nenufar nunca se queja. Nenufar no quiere saber nada de lo que pasa. A Nenufar solo le ponen plantas
-encima sin rechistar. ¿Escondera opiniones inquietantes o secretos perturbadores? Nadie lo sabe. Nenufar no habla.
+{FLAVOR}Lily Pad never complains. Water Lilies don't want to know anything about what's going on. Water Lilies just let plants be placed on top of them without complaining.
+Do they hide disturbing opinions or disturbing secrets? No one knows. Water Lilies don't talk.
 
 [SQUASH_DESCRIPTION]
-La Apisonaflor aplastara al primer zombi que se le acerque.
+The Squash will crush the first zombie that approaches it.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} masivo
-{KEYWORD}Alcance:{STAT} corto, aplasta a todos los zombis que pise.
-{KEYWORD}Uso:{STAT} unico
+{KEYWORD}Attack:{STAT} massive
+{KEYWORD}Range:{STAT} short, crushes all zombies it steps on.
+{KEYWORD}Use:{STAT} single
 {SHORTLINE}
-{FLAVOR}"'¡A por ellos!", grita Apisonaflor. "¡A por ellos! ¡Oe! ¡Venga, sacame! Soy el mejor, vamos, ¿a que esperas? ¡Lo necesito!"
+{FLAVOR}"‘Go get 'em!’ shouts Flower Crusher. “Go get 'em! Hey! Come on, shoot me! I'm the best, come on, what are you waiting for? I need it!”
 
 [THREEPEATER_DESCRIPTION]
-Las Tripitidoras disparan guisantes en tres lineas.
+Peashooters shoot peas in three lines.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal (por guisante)
-{KEYWORD}Alcance:{STAT} tres lineas
+{KEYWORD}Attack:{STAT} normal (per pea)
+{KEYWORD}Range:{STAT} three lines
 {SHORTLINE}
-{FLAVOR}A la Tripitidora le gusta la lectura, el ajedrez y estar largos periodos de tiempo en un parque.
-Le gusta ir a conciertos de musica jazz. "Estoy buscando a mi alma gemela," asegura. Su numero favorito: el 5.
+{FLAVOR}The Tripitidora likes reading, chess, and spending long periods of time in the park.
+It likes going to jazz concerts. “I'm looking for my soul mate,” it says. Its favorite number is 5.
 
 [TANGLE_KELP_DESCRIPTION]
-La Zampalga es una planta acuatica que succiona zombis bajo el agua.
+The Zampalga is an aquatic plant that sucks zombies underwater.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} masivo
-{KEYWORD}Uso:{STAT} unico, al contacto
-{AQUATIC}Plantar en agua
+{KEYWORD}Attack:{STAT} massive
+{KEYWORD}Use:{STAT} unique, on contact
+{AQUATIC}Plant in water
 {SHORTLINE}
-{FLAVOR}"Soy invisible", piensa Zampalga en voz alta. "Me camuflo por en la superficie y nadie me ve".
-Sus amigos le dicen que se la ve, y mucho, pero ella sigue en sus trece.
+{FLAVOR}“I'm invisible,” Zampalga thinks aloud. “I blend in with the surface and no one can see me.”
+Her friends tell her that she is very visible, but she remains adamant.
 
 [JALAPENO_DESCRIPTION]
-El Jalapeno arrasa con una linea entera de zombis.
+The Jalapeno wipes out an entire line of zombies.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} masivo
-{KEYWORD}Alcance:{STAT} todos los zombis de una linea
-{KEYWORD}Uso:{STAT} unico e instantaneo
+{KEYWORD}Attack:{STAT} Massive
+{KEYWORD}Range:{STAT} All zombies in a line
+{KEYWORD}Use:{STAT} Single and instantaneous
 {SHORTLINE}
-{FLAVOR}"¡¡¡¡NNNNNGGGGGG!!!!", masculla Jalapeno. No va a explotar, todavia no. Pero pronto... muuuy pronto.
-Se acerca el momento. Lo sabe. Lo siente. Toda su vida esperando este gran momento.
+{FLAVOR}“NNNNNGGGGGG!!!!” mutters Jalapeno. It's not going to explode, not yet. But soon... very soon.
+The moment is approaching. It knows it. It feels it. It has been waiting its whole life for this great moment.
 
 [SPIKEWEED_DESCRIPTION]
-La Pinchohierba saca pinchos y hiere a quien ose pisarla.
+Spikeweed shoots out spikes and hurts anyone who dares to step on it.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Alcance:{STAT} zombis que la pisen
-{KEYWORD}Especial:{STAT} los zombis no se la comen.
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Range:{STAT} zombies that step on it
+{KEYWORD}Special:{STAT} zombies don't eat it.
 {SHORTLINE}
-{FLAVOR}El hockey es la obsesion de Pinchohierba. Tiene entradas para toda la temporada. Sigue muy de cerca de sus jugadores
-favoritos. Y siempre gana en la apuestas. Aunque hay un problema: ¡tiene panico a los discos!
+{FLAVOR}Hockey is Spikeweed's obsession. He has tickets for the entire season. He follows his favorite players closely.
+And he always wins his bets. There's just one problem: he's terrified of pucks!
 
 [TORCHWOOD_DESCRIPTION]
-La Plantorcha prende los guisantes que la sobrevuelen, los cuales causaran el doble de dano.
+The Plantorcha sets fire to peas that fly over it, causing double damage.
 {SHORTLINE}
-{KEYWORD}Especial:{STAT} Los guisantes en llamas doblan el dano, que se extiende a zombis cercanos al impacto.
+{KEYWORD}Special:{STAT} Flaming peas double the damage, which spreads to zombies near the impact.
 {SHORTLINE}
-{FLAVOR}Todo el mundo respeta a Plantorcha; por su integridad, por su amistad sincera, y sobretodo, por su
-habilidad para duplicar el dano de los guisantes. Pero Plantorcha esconde un secreto: no sabe leer.
+{FLAVOR}Everyone respects Plantorcha for his integrity, his sincere friendship, and above all, his
+ability to double the damage of peas. But Plantorcha hides a secret: he can't read.
 
 [TALL_NUT_DESCRIPTION]
-La Nuez cascara-rabias es muy dura de pelar e imposible de saltar.
+The Nutcracker is very hard to peel and impossible to jump over.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} muy alta
-{KEYWORD}Especial:{STAT} no puede ser saltada.
+{KEYWORD}Hardness:{STAT} very high
+{KEYWORD}Special:{STAT} cannot be jumped over.
 {SHORTLINE}
-{FLAVOR}La gente se pregunta si existe algun tipo de rivalidad entre Nuez y ella. A lo que responde con una
-sonora carcajada: "¿Como vamos a ser enemigos? ¡Si somos hermanos! Con lo que Nuez ha hecho por mi..." 
-Su voz se apaga mientras esboza una sonrisa de reconocimiento.
+{FLAVOR}People wonder if there is some kind of rivalry between Nut and her. To which she responds with a
+loud laugh: "How can we be enemies? We're siblings! With everything Nuez has done for me..." 
+Her voice trails off as she smiles gratefully.
 
 [SEA_SHROOM_DESCRIPTION]
-La Marseta es una planta acuatica. Dispara esporas de cerca.
+The Marseta is an aquatic plant. It shoots spores from close range.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Alcance:{STAT} corto
-{AQUATIC}Plantar en agua
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Range:{STAT} short
+{AQUATIC}Plant in water
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}Marseta nunca ha visto el mar. Lo lleva en su nombre y ha oido miles de historia sobre el mar, pero nunca a sacado tiempo ir a verlo. Algun dia, seguro.
+{FLAVOR}Marseta has never seen the sea. It's in his name, and he's heard thousands of stories about the sea, but he's never found the time to go see it. Someday, for sure.
 
 [PLANTERN_DESCRIPTION]
-La Planerna ilumina un area, permitiendo ver en la niebla.
+The Planterna illuminates an area, allowing you to see in the fog.
 {SHORTLINE}
-{KEYWORD}Alcance:{STAT} una linea
-{KEYWORD}Especial:{STAT} visibilidad en niebla
+{KEYWORD}Range:{STAT} one line
+{KEYWORD}Special:{STAT} visibility in fog
 {SHORTLINE}
-{FLAVOR}Planterna desafia las leyes de la naturaleza. Otras plantas se alimentan de luz y sueltan oxigeno,
-pero Planterna come oscuridad y arroja luz. El truco de como lo hace: "No es que sea 'magia', y tampoco
-lo llamaria 'fuerzas oscuras'. Bueno, creo que ya he hablado suficiente."
+{FLAVOR}Planterna defies the laws of nature. Other plants feed on light and release oxygen,
+but Planterna eats darkness and gives off light. The trick to how it does this: "It's not ‘magic,’ and I wouldn't
+call it ‘dark forces’ either. Well, I think I've said enough."
 
 [CACTUS_DESCRIPTION]
-El Cactus lanza espinas sobre objetivos terrestres y aereos.
+The Cactus shoots thorns at ground and air targets.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Alcance:{STAT} terrestre y aereo
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Range:{STAT} ground and air
 {SHORTLINE}
-{FLAVOR}Puede que pinche por fuera, pero debajo de esas peligrosas espinas yace un corazon bondadoso.
-Es muy carinoso y le encanta dar abrazos y que lo abracen, lo que para muchos es un problema,
-pero a el no le importa. Su mejor amigo de toda la vida es un armadillo.
+{FLAVOR}It may look prickly on the outside, but beneath those dangerous thorns lies a kind heart.
+It is very affectionate and loves to give and receive hugs, which is a problem for many,
+but it doesn't care. Its lifelong best friend is an armadillo.
 
 [BLOVER_DESCRIPTION]
-El Trebolador expulsa globos y niebla.
+The Trebolador expels balloons and fog.
 {SHORTLINE}
-{KEYWORD}Uso:{STAT} unico e instantaneo
-{KEYWORD}Especial:{STAT} expulsa la niebla y los globos.
+{KEYWORD}Use:{STAT} unique and instantaneous
+{KEYWORD}Special:{STAT} expels fog and balloons.
 {SHORTLINE}
-{FLAVOR}Para su quinto aniversario le prepararon un pastel. Trebolador pidio un deseo, se concentro y soplo.
-Pero solo apago la mitad de las velas. En lugar de rendirse, saco fuerzas de aquella derrota
-
+{FLAVOR}For his fifth anniversary, they made him a cake. Trebolador made a wish, concentrated, and blew out the candles.
+But he only blew out half of them. Instead of giving up, he drew strength from that defeat.
 [SPLIT_PEA_DESCRIPTION]
-La Bipetidora dispara hacia adelanta y atras.
+The Bipetidora shoots forward and backward.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Alcance:{STAT} ambos sentidos en linea
-{KEYWORD}Vel. de disparo:{STAT} adelante x 1, atras x 2
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Range:{STAT} both directions in a straight line
+{KEYWORD}Firing speed:{STAT} forward x 1, backward x 2
 {SHORTLINE}
-{FLAVOR}"Si, soy Geminis", afirma Bipetidora. "Uy, que noticion. Teniendo dos cabezas, salta a la vista.
-Tener otra cabeza en la cocorota me viene de perlas para mi trabajo."
+{FLAVOR}“Yes, I'm a Gemini,” says Bipetidora. "Wow, what a surprise. With two heads, it's pretty obvious.
+Having another head on my shoulders is perfect for my job."
 
 [STARFRUIT_DESCRIPTION]
-La Frustrella dispara en 5 direcciones.
+The Frustrella shoots in 5 directions.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Alcance:{STAT} 5 direcciones
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Range:{STAT} 5 directions
 {SHORTLINE}
-{FLAVOR}"¡Jopeta!", masculla Frustrella. "Fui al dentista el otro dia y me dijo que tenia cuatro cavidades.
-¡Y solo tengo un diente! ¿Cuatro cavidades y un diente? ¿Pero como puede ser?"
+{FLAVOR}“Yikes!” mutters Frustrella. "I went to the dentist the other day and he told me I had four cavities.
+And I only have one tooth! Four cavities and one tooth? How is that even possible?"
 
 [PUMPKIN_DESCRIPTION]
-La Calabaza protege a las plantas de su interior.
+The Pumpkin protects the plants inside it.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} alta
-{KEYWORD}Especial:{STAT} se planta sobre otra planta.
+{KEYWORD}Hardness:{STAT} high
+{KEYWORD}Special:{STAT} plants itself on top of another plant.
 {SHORTLINE}
-{FLAVOR}Calabaza nunca entendio por que dar calabazas es algo malo. Simplemente, no lo entiende.
-"Son ese tipo de prejuicios los que hacen que nuestra sociedad no avance."
+{FLAVOR}Pumpkin never understood why giving pumpkins is a bad thing. He just doesn't get it.
+“It's prejudices like that that keep our society from moving forward.”
 
 [MAGNET_SHROOM_DESCRIPTION]
-La Magnetoseta desarma a los zombis de cascos y objetos metalicos.
+The Magnetoseta disarms zombies of helmets and metal objects.
 {SHORTLINE}
-{KEYWORD}Alcance:{STAT} cerca de zombis
-{KEYWORD}Especial:{STAT} desarma objetos metalicos.
-{NOCTURNAL}Duerme durante el dia.
+{KEYWORD}Range:{STAT} near zombies
+{KEYWORD}Special:{STAT} disarms metal objects.
+{NOCTURNAL}Sleeps during the day.
 {SHORTLINE}
-{FLAVOR}El magnetismo es una fuerza poderosa. Muy poderosa. A veces la propia Magnetoseta se
-asusta un poco. Un gran poder conlleva una gran responsabilidad.
+{FLAVOR}Magnetism is a powerful force. Very powerful. Sometimes Magnetoseta herself gets
+a little scared. With great power comes great responsibility.
 
 [CABBAGE_PULT_DESCRIPTION]
-La Coltapulta lanza coles al enemigo.
+The Cabbage-Pult throws cabbages at the enemy.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal
-{KEYWORD}Alcance:{STAT} largo, por arriba
+{KEYWORD}Attack:{STAT} normal
+{KEYWORD}Range:{STAT} long, overhead
 {SHORTLINE}
-{FLAVOR}A Coltapulta no le disgusta lanzar coles a los zombis. Despues de todo, para eso le pagan,
-y se le da muy bien. Pero lo que no entiende es como recorcholis llegan los zombis al tejado.
+{FLAVOR}The Cabbage-Pult doesn't mind throwing cabbages at zombies. After all, that's what it gets paid for,
+and it's very good at it. But what it doesn't understand is how the zombies get onto the roof in the first place.
 
 [FLOWER_POT_DESCRIPTION]
-La Maceta te permite plantar en el tejado.
+The Flower Pot allows you to plant on the roof.
 {SHORTLINE}
-{KEYWORD}Especial:{STAT} permite plantar en el tejado.
+{KEYWORD}Special:{STAT} allows planting on the roof.
 {SHORTLINE}
-{FLAVOR}"Soy una maceta para plantas. Y tambien soy una planta. ¿NO TE EXPLOTA LA CABEZA?"
+{FLAVOR}“I'm a flower pot for plants. And I'm also a plant. DOESN'T YOUR HEAD EXPLODE?”
 
 [KERNEL_PULT_DESCRIPTION]
-La Lanzamaiz catapulta maiz y mantequilla a los zombis.
+The Corn Launcher catapults corn and butter at zombies.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} debil (granos), normal (mantequilla)
-{KEYWORD}Alcance:{STAT} largo, por arriba
-{KEYWORD}Especial:{STAT} la mantequilla paraliza al enemigo.
+{KEYWORD}Attack:{STAT} weak (corn), normal (butter)
+{KEYWORD}Range:{STAT} long, overhead
+{KEYWORD}Special:{STAT} Butter paralyzes the enemy.
 {SHORTLINE}
-{FLAVOR}Mazorcapulta es el hermano mayor de los lanzadores. De los tres, el es el unico
-que se acuerda de los cumpleanos de los demas. Y les da la tabarra con eso.
+{FLAVOR}Corn-a-Shooter is the oldest of the launchers. Of the three, he's the only one
+who remembers everyone's birthdays. And he nags them about it.
 
 [COFFEE_BEAN_DESCRIPTION]
-Usa Granos de cafe para despertar a tus setas.
+Use Coffee Beans to wake up your mushrooms.
 {SHORTLINE}
-{KEYWORD}Uso:{STAT} unico e instantaneo
-{KEYWORD}Especial:{STAT} se planta sobre otra planta y despierta a las setas.
+{KEYWORD}Use:{STAT} unique and instantaneous
+{KEYWORD}Special:{STAT} plants itself on top of another plant and wakes up the mushrooms.
 {SHORTLINE}
-{FLAVOR}"¡Eh, que pasa, pena!", dice Grano de cafe. "¡Eh! ¿Que pasa? ¿Quien eres? ¿Has visto eso?
-¿Lo que? ¡Gua! ¡Leones!" Si, a Grano de cafe le dan subidones.
+{FLAVOR}“Hey, what's up, man!” says Coffee Bean. "Hey! What's up? Who are you? Did you see that?
+What? Whoa! Lions!" Yes, Coffee Bean gets high.
 
 [GARLIC_DESCRIPTION]
-El Ajo repele al enemigo a otras lineas.
+Garlic repels enemies to other lines.
 {SHORTLINE}
-{KEYWORD}Uso:{STAT} al contacto
-{KEYWORD}Especial:{STAT} desvia zombis a otras lineas.
+{KEYWORD}Use:{STAT} on contact
+{KEYWORD}Special:{STAT} deflects zombies to other lines.
 {SHORTLINE}
-{FLAVOR}Desviar el trafico no es solo su profesion, sino su pasion. Ajo se esta sacando un doctorado
-en Redireccion por la Universidad de Bruselas. Se pasa el dia hablando de vectores lineales y angulos. 
-Incluso se lleva el trabajo a casa y cambia los pasillos de su casa, cosa que su mujer le consiente.
+{FLAVOR}Diverting traffic isn't just his profession, it's his passion. Garlic is pursuing a doctorate
+in Redirection at the University of Brussels. He spends his days talking about linear vectors and angles. 
+He even takes his work home with him and changes the layout of his house, which his wife indulges.
 
 [UMBRELLA_LEAF_DESCRIPTION]
-La Paraplanta protege plantas cercanas de Zombis colgaos.
+The Paraplant protects nearby plants from Hanging Zombies.
 {SHORTLINE}
-{KEYWORD}Especial:{STAT} protege plantas de Zombis colgaos y Zombipultas.
+{KEYWORD}Special:{STAT} protects plants from Hanging Zombies and Zombie Pulties.
 {SHORTLINE}
-{FLAVOR}"¡POING!", dice Paraplanta. "¿Te ha gustado? Lo puedo repetir. ¡POING! ¡Yiii! Asi soy yo,
-que acudo pa' proteger cosas. Si, el tema es ese. EXACTAMENTE ese. Lo que yo te diga."
+{FLAVOR}“POING!” says Paraplant. "Did you like that? I can do it again. POING! Yiii! That's me,
+I come to protect things. Yes, that's the thing. EXACTLY that. Whatever I tell you."
 
 [MARIGOLD_DESCRIPTION]
-La Margarita te dan monedas de oro y plata.
+Marigolds give you gold and silver coins.
 {SHORTLINE}
-{KEYWORD}Especial:{STAT} proporciona monedas.
+{KEYWORD}Special:{STAT} provides coins.
 {SHORTLINE}
-{FLAVOR}La Margarita tarda mucho en decidir si sacar una moneda de oro o de plata. Sopesa los pros
-y los contras desde todos los puntos de vista. Se documenta en fuentes fidedignas y elige con cautela.
-Asi es como destaca un triunfador.
+{FLAVOR}The Daisy takes a long time to decide whether to pull out a gold or silver coin. It weighs the pros
+and cons from all angles. It consults reliable sources and chooses carefully.
+That's how a winner stands out.
 
 [MELON_PULT_DESCRIPTION]
-La Melonpulta causa grandes danos a grupos de zombis.
+The Melonpulta causes great damage to groups of zombies.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} fuerte
-{KEYWORD}Alcance:{STAT} largo, por arriba
-{KEYWORD}Especial:{STAT} dana enemigos colindantes al impacto.
+{KEYWORD}Attack:{STAT} strong
+{KEYWORD}Range:{STAT} long, overhead
+{KEYWORD}Special:{STAT} damages adjacent enemies on impact.
 {SHORTLINE}
-{FLAVOR}Nada de falsas modestias con Melonpulta. "Yo reparto la mejor lena de todo el jardin",
-asegura. "No me estoy echando ningun farol: saca cuentas tu mismo."
+{FLAVOR}There's no false modesty with the Melonpulta. “I dish out the best punishment in the whole garden,”
+it claims. “I'm not bluffing: do the math yourself.”
 
 [GATLING_PEA_DESCRIPTION]
-La Guisantralladora dispara 4 guisantes a la vez.
+The Pea Shooter fires 4 peas at once.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} normal (por guisante)
-{KEYWORD}Vel. de disparo:{STAT} x 4
-{KEYWORD}Plantar sobre Repetidores
+{KEYWORD}Attack:{STAT} normal (per pea)
+{KEYWORD}Fire Rate:{STAT} x 4
+{KEYWORD}Plant on Repeaters
 {SHORTLINE}
-{FLAVOR}Sus padres se preocuparon cuando les dijo que queria enrolarse en el ejercito.
-"¡Eso es muy peligroso, cielo!", dijeron al unisono. Guisantralladora no se amilano. "La vida es peligrosa",
-respondio con los ojos inyectados en conviccion.
+{FLAVOR}Her parents were worried when she told them she wanted to join the army.
+“That's too dangerous, dear!” they said in unison. Pea Shooter was undeterred. “Life is dangerous,”
+he replied, his eyes flashing with conviction.
 
 [TWIN_SUNFLOWER_DESCRIPTION]
-El Birasol produce el doble de sol que el Girasol.
+The Twin Sunflower produces twice as much sun as the Sunflower.
 {SHORTLINE}
-{KEYWORD}Produccion de sol:{STAT} doble
-{KEYWORD}Plantar sobre Girasoles
+{KEYWORD}Sun production:{STAT} double
+{KEYWORD}Plant on Sunflowers
 {SHORTLINE}
-{FLAVOR}Fue una noche de demencia en un laboratorio secreto lo que la creo. Los truenos
-retumbaban, las luces centelleaban, incluso el viento aullaba de enfado ante tan terrible abominacion.
-Pero de nada sirvio: Bigirasol estaba vivo, ¡VIVO!
+{FLAVOR}It was a night of madness in a secret laboratory that created it. Thunder
+rumbled, lights flashed, even the wind howled in anger at such a terrible abomination.
+But it was all for naught: Bigirasol was alive, ALIVE!
 
 [GLOOM_SHROOM_DESCRIPTION]
-La Gasoseta exhala gases pesantes a en un area a su alrededor.
+The Gasoseta exhales heavy gases into the area around it.
 {SHORTLINE}
-{KEYWORD}Plantar sobre Humosetas
+{KEYWORD}Plant on Fumes
 {SHORTLINE}
-{FLAVOR}"Siempre me ha gustado echar mis gases", dice Gasoseta. "Ya se que a muchos eso no
-les gusta, que si es de mala educacion o que si huele mal, a lo que yo siempre contesto:
-"¿Prefieres que te devoren los zombis?"
+{FLAVOR}“I've always liked passing gas,” says Gasoseta. "I know that many people don't like it,
+that it's rude or that it smells bad, to which I always reply:
+‘Would you rather be devoured by zombies?’"
 
 [CATTAIL_DESCRIPTION]
-La planta Rabo de gato ataca en una linea y revienta globos.
+The Cattail plant attacks in a line and pops balloons.
 {SHORTLINE}
-{KEYWORD}Plantar sobre Nenufares
+{KEYWORD}Plant on Water Lilies
 {SHORTLINE}
-{FLAVOR}"¡Guau!", ladra Rabo de gato. "Grrr... ¡Guau, guau! ¿Que? ¿Confundido? Esperabas que hiciera
-'miaaau' solo porque en mi nombre pone 'gato'... y porque parezco un gato tambien. ¡Pues no!
-Me niego a que me encasillen de esa manera."
+{FLAVOR}“Woof!” barks Cattail. "Grrr... Woof, woof! What? Confused? You expected me to go
+‘meow’ just because my name has ‘cat’ in it... and because I look like a cat too. Well, no!
+I refuse to be pigeonholed like that."
 
 [WINTER_MELON_DESCRIPTION]
-Melonpulta congelada inflige grandes danos y ralentiza al enemigo.
+Frozen Melonpulta deals heavy damage and slows down the enemy.
 {SHORTLINE}
-{KEYWORD}Ataque:{STAT} muy fuerte
-{KEYWORD}Alcance:{STAT} largo, por arriba
-{KEYWORD}Vel. de disparo:{STAT} x 1/2
-{KEYWORD}Especial:{STAT} dana y ralentiza zombis cercanos al impacto.
-{KEYWORD}Plantar sobre Melonpultas
+{KEYWORD}Attack:{STAT} very strong
+{KEYWORD}Range:{STAT} long, overhead
+{KEYWORD}Firing speed:{STAT} x 1/2
+{KEYWORD}Special:{STAT} damages and slows down nearby zombies upon impact.
+{KEYWORD}Plant on Melonpults
 {SHORTLINE}
-{FLAVOR}Melonpulta congelada intenta mantener la calma. Oye a los zombis aproximarse. ¿Lo conseguira? ¿Alguien lo conseguira?
-
+{FLAVOR}Frozen Melonpult tries to stay calm. She hears the zombies approaching. Will she make it? Will anyone make it?
 [GOLD_MAGNET_DESCRIPTION]
-La Magnetoseta dorada recoge monedas y diamantes.
+The Golden Magnetoseta collects coins and diamonds.
 {SHORTLINE}
-{KEYWORD}Plantar sobre Magnetoseta
+{KEYWORD}Plant on Magnetoseta
 {SHORTLINE}
-{FLAVOR}"¿Como he llegado aqui?", se pregunta Magnetoseta dorada. "Ya lo tenia todo: despacho
-propio, acciones en bolsa... Iba a ser el proximo vicepresidente de la empresa. Y ahora estoy en este
-jardinucho a punto de ser devorado vivo... ¡Oh! ¡Una moneda!"
+{FLAVOR}“How did I get here?” wonders Golden Magnetoseta. "I had it all: my own office,
+stocks on the market... I was going to be the next vice president of the company. And now I'm in this
+little garden about to be eaten alive... Oh! A coin!"
 
 [COB_CANNON_DESCRIPTION]
-Haz clic en el Mazorcanon para disparar mazorcas letales.
+Click on the Corn Cannon to fire deadly corn cobs.
 {SHORTLINE}
-{KEYWORD}Plantar sobre 2 Lanzamaices colindantes.
+{KEYWORD}Plant on 2 adjacent Corn Shooters.
 {SHORTLINE}
-{FLAVOR}¿Pero de que va Mazorcanon? Estudio en Harvard y trabaja en un prestigioso buffet de abogados
-de Nueva York. Es capaz de hacer saltar por los aires varios zombis a la vez. Pero eso lo saben todos.
-Entonces, ¿que es lo que le motiva realmente?
+{FLAVOR}But what's Mazorcanon all about? He studied at Harvard and works at a prestigious law firm
+in New York. He can blow up several zombies at once. But everyone knows that.
+So what really motivates him?
 
 [IMITATER_DESCRIPTION]
-¡La Imitadora duplica cualquier planta en un nivel!
+The Imitator doubles any plant on a level!
 {SHORTLINE}
-{FLAVOR}"Me acuerdo de la pelicula Zombie Wars del 76," dice Imitadora con su anciana voz ronca.
-"En aquella epoca no teniamos estos modernos Lanzaguisantes ni Jalapenos. Solo teniamos agallas. Agallas y una cuchara."
-
+{FLAVOR}“I remember the movie Zombie Wars from '76,” says Imitator in her hoarse old voice.
+“Back then we didn't have these fancy Pea Shooters and Jalapenos. We just had guts. Guts and a spoon.”
 [SPIKEROCK_DESCRIPTION]
-La Pinchorroca saca multiples pinchos y hiere a quien ose pisarla.
+The Pinchorroca shoots out multiple spikes and injures anyone who dares to step on it.
 {SHORTLINE}
-{KEYWORD}Plantar sobre Pinchohierba
+{KEYWORD}Plant on Pinchohierba
 {SHORTLINE}
-{FLAVOR}Pinchorroca acaba de regresar de su viaje por Europa. Se lo ha pasado fenomenal, ha conocido
-gente maravillosa y ha expandido sus horizontes. No sabia que habia museos tan grandes y con tantos cuadros.
-Eso fue lo que mas le sorprendio.
+{FLAVOR}Pinchorroca has just returned from her trip to Europe. She had a wonderful time, met
+amazing people, and broadened her horizons. She didn't know there were such large museums with so many paintings.
+That's what surprised her the most.
 
 [ZOMBIE_DESCRIPTION]
-Zombi de jardin comun
+Common Garden Zombie
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Hardness:{STAT} low {270}
 {SHORTLINE}
-{FLAVOR}A este zombi le chiflan los cerebros. Nunca se harta. Cerebros para desayunar, para merendar,
-para cenar... ¿Sesos putrefactos y malolientes? ¿Sesos que hayan caducado? El se los zampa igual.
+{FLAVOR}This zombie loves brains. He can't get enough of them. Brains for breakfast, for a snack,
+for dinner... Rotten, smelly brains? Expired brains? He'll eat them all the same.
 
 [FLAG_ZOMBIE_DESCRIPTION]
-Zombi abanderado
+Flag-bearing Zombie
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Toughness:{STAT} low {270}
 {SHORTLINE}
-{FLAVOR}No te equivoques: al Zombi abanderado le pirran los sesos. Pero en algun punto del camino
-quedo fascinado por las banderas. Quiza sea porque llevan cerebros dibujados. Qui lo sa...
+{FLAVOR}Make no mistake: the Flag Zombie loves brains. But somewhere along the way,
+he became fascinated with flags. Maybe it's because they have brains drawn on them. Who knows...
 
 [CONEHEAD_ZOMBIE_DESCRIPTION]
-Su cono lo hace el doble de resistente que el Zombi de jardin comun.
+His cone makes him twice as tough as the common garden Zombie.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {640}
+{KEYWORD}Toughness:{STAT} medium {640}
 {SHORTLINE}
-{FLAVOR}El Zombi caracono avanza sin pensar como cualquier otro zombi.
-Pero algo hizo que se detuviera en seco, cogiera un cono del suelo y se lo encasquetara en su mollera. Es que le va la marcha.
-
+{FLAVOR}The Conehead Zombie advances mindlessly like any other zombie.
+But something made him stop dead in his tracks, pick up a cone from the ground, and stick it on his head. He just likes to party.
 [BUCKETHEAD_ZOMBIE_DESCRIPTION]
-El cubo lo hace muy resistente.
+The bucket makes it very resistant.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} alta {1370}
-{KEYMETAL}Debilidad:{METAL} Magnetoseta
+{KEYWORD}Hardness:{STAT} high {1370}
+{KEYMETAL}Weakness:{METAL} Magnetoseta
 {SHORTLINE}
-{FLAVOR}El Zombi caracubo siempre ha llevado ese cubo. En parte, para rebelarse contra una
-sociedad hostil.
+{FLAVOR}The Buckethead Zombie has always worn that bucket. Partly to rebel against a
+hostile society.
 
 [POLE_VAULTING_ZOMBIE_DESCRIPTION]
-El Saltador de pertiga salta con la pertiga.
+The Pole Vaulting Zombie jumps with a pole vault.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {500}
-{KEYWORD}Velocidad:{STAT} rapido, normal tras saltar
-{KEYWORD}Especial:{STAT} salta la primera planta que encuentra.
+{KEYWORD}Toughness:{STAT} medium {500}
+{KEYWORD}Speed:{STAT} fast, normal after jumping
+{KEYWORD}Special:{STAT} jumps over the first floor it encounters.
 {SHORTLINE}
-{FLAVOR}Algunos zombis van mas lejos y aspiran a mas; toman el camino hacia
-la grandeza. Es el caso del Saltador de pertiga. Unico en su especie.
+{FLAVOR}Some zombies go further and aspire to more; they take the path to
+greatness. Such is the case with the Pole Vaulting Zombie. One of a kind.
 
 [NEWSPAPER_ZOMBIE_DESCRIPTION]
-Su periodico le proporciona una defensa temporal.
+His newspaper provides him with temporary defense.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
-{KEYWORD}Dureza del periodico:{STAT} baja {150}
-{KEYWORD}Velocidad:{STAT} normal, rapido tras perder el periodico
+{KEYWORD}Toughness:{STAT} low {270}
+{KEYWORD}Newspaper toughness:{STAT} low {150}
+{KEYWORD}Speed:{STAT} normal, fast after losing newspaper
 {SHORTLINE}
-{FLAVOR}El Zombi lector estaba muy cerca de completar el sudoku del periodico: normal que se enfade.
+{FLAVOR}The reading zombie was very close to completing the newspaper's sudoku puzzle: no wonder he's angry.
 
 [SCREEN_DOOR_ZOMBIE_DESCRIPTION]
-La puerta es un buen escudo.
+The door is a good shield.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
-{KEYWORD}Dureza de la puerta:{STAT} alta {1100}
-{KEYWORD}Debilidad:{STAT} Humoseta y{METAL} Magnetoseta{KEYWORD}
+{KEYWORD}Hardness:{STAT} low {270}
+{KEYWORD}Door toughness:{STAT} high {1100}
+{KEYWORD}Weakness:{STAT} Smoke and{METAL} Magnet{KEYWORD}
 {SHORTLINE}
-{FLAVOR}Cuando le dijeron que aun no estaba listo para jugar de portero, se preparo mejor para el dia siguiente.
+{FLAVOR}When they told him he wasn't ready to play goalkeeper yet, he prepared himself better for the next day.
 
 [FOOTBALL_ZOMBIE_DESCRIPTION]
-Zombi deportista
+Athletic Zombie
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} muy alta {1670}
-{KEYWORD}Velocidad:{STAT} rapido
-{KEYMETAL}Debilidad:{METAL} Magnetoseta
+{KEYWORD}Toughness:{STAT} Very High {1670}
+{KEYWORD}Speed:{STAT} Fast
+{KEYMETAL}Weakness:{METAL} Magnetoseta
 {SHORTLINE}
-{FLAVOR}Este fanatico deportista da el 110 por ciento cuando sale al terreno de juego.
-Es un jugador completo, por que ataca y se marca a si mismo. ¿Rugby? No sabe lo que es.
+{FLAVOR}This sports fanatic gives 110 percent when he takes the field.
+He's a complete player, because he attacks and marks himself. Rugby? He doesn't know what that is.
 
 [DANCING_ZOMBIE_DESCRIPTION]
-Cualquier parecido del Zombi bailon con personajes vivos o muertos es pura coincidencia.
+Any resemblance between the Dancing Zombie and living or dead characters is purely coincidental.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {500}
-{KEYWORD}Especial:{STAT} invoca a Zombis extras.
+{KEYWORD}Toughness:{STAT} medium {500}
+{KEYWORD}Special:{STAT} summons extra Zombies.
 {SHORTLINE}
-{FLAVOR}El ultimo disco de Zombi bailon, "ZEREEBROSS", esta arrasando en las listas de musica 'en vivo'.
+{FLAVOR}The Dancing Zombie's latest album, “ZEREEBROSS,” is storming the ‘live’ music charts.
 
 [BACKUP_DANCER_DESCRIPTION]
-Estos zombis aparecen de cuatro en cuatro cuando el aparece el Zombi bailon.
+These zombies appear in groups of four when the Dancing Zombie appears.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Toughness:{STAT} low {270}
 {SHORTLINE}
-{FLAVOR}El Zombi extra ha dedicado 6 anos a perfeccionar su tecnica en la academia
-Chewliard de Artes Escenicas de Nueva Zombi York.
+{FLAVOR}The extra Zombie has spent 6 years perfecting his technique at the
+Chewliard Academy of Performing Arts in New Zombi York.
 
 [DUCKY_TUBE_ZOMBIE_DESCRIPTION]
-Su flotador de patito le permite flotar en el agua.
+Its rubber duck float allows it to float in water.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
-{AQUATIC}Solo aparece en la piscina.
+{KEYWORD}Hardness:{STAT} low {270}
+{AQUATIC}Only appears in the pool.
 {SHORTLINE}
-{FLAVOR}Solo hay una casta especial de zombis que puede ser un autentico Zombi playero.
-Muchos no estan a la altura, no soportan la presion y desertan de sesos para siempre.
+{FLAVOR}There is only one special breed of zombie that can be a true beach zombie.
+Many are not up to the task, cannot handle the pressure, and desert their brains forever.
 
 [SNORKEL_ZOMBIE_DESCRIPTION]
-El Zombi buzo puede bucear.
+The Diver Zombie can dive.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
-{KEYWORD}Especial:{STAT} bucea para evitar ataques.
-{AQUATIC}Solo aparece en la piscina.
+{KEYWORD}Hardness:{STAT} low {270}
+{KEYWORD}Special:{STAT} dives to avoid attacks.
+{AQUATIC}Only appears in the pool.
 {SHORTLINE}
-{FLAVOR}Los zombis no respiran; no necesitan oxigeno. Entonces, ¿por que el Zombi buzo lleva tubo y banador?{KEYWORD}
-{FLAVOR}Respuesta: por el que diran.
+{FLAVOR}Zombies don't breathe; they don't need oxygen. So why does the Diver Zombie wear a snorkel and swimsuit?{KEYWORD}
+{FLAVOR}Answer: because of what people might say.
 
 [ZOMBONI_DESCRIPTION]
-El Zombictor aplica hielo, vaho y presion a tus plantas.
+The Zombictor applies ice, mist, and pressure to your plants.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} alta {1350}
-{KEYWORD}Especial:{STAT} aplasta plantas y deja rastro de hielo.
+{KEYWORD}Hardness:{STAT} high {1350}
+{KEYWORD}Special:{STAT} crushes plants and leaves a trail of ice.
 {SHORTLINE}
-{FLAVOR}A menudo confundido con un mero zombi conductor de maquinas alisadoras de hielo, este especimen es mas similar a un ogro espacial que a un zombi.
+{FLAVOR}Often mistaken for a mere zombie ice machine operator, this specimen is more like a space ogre than a zombie.
 
 [ZOMBIE_BOBSLED_TEAM_DESCRIPTION]
-Estos zombis aparecen por equipos de cuatro.
+These zombies appear in teams of four.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja (cada zombi) {270}
-{KEYWORD}Dureza del bobsleigh:{STAT} baja {300}
-{KEYWORD}Especial:{STAT} solo aparece si hay hielo.
+{KEYWORD}Toughness:{STAT} low (each zombie) {270}
+{KEYWORD}Bobsled toughness:{STAT} low {300}
+{KEYWORD}Special:{STAT} only appears if there is ice.
 {SHORTLINE}
-{FLAVOR}El equipo de bobsleigh zombi ha trabajado duro para llegar donde esta ahora. Viven juntos,
-comen cerebros juntos y entrenan para ser un equipo perfecto.
+{FLAVOR}The zombie bobsleigh team has worked hard to get where they are now. They live together,
+eat brains together, and train to be the perfect team.
 
 [DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
-El Zombi con delfin usa a su mascota para explotar tus puntos debiles.
+The Zombie with Dolphin uses his pet to exploit your weaknesses.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {500}
-{KEYWORD}Velocidad:{STAT} rapido, lento tras saltar
-{KEYWORD}Especial:{STAT} salta la primera planta que encuentre.
-{AQUATIC}Solo aparece en la piscina.
+{KEYWORD}Toughness:{STAT} medium {500}
+{KEYWORD}Speed:{STAT} fast, slow after jumping
+{KEYWORD}Special:{STAT} jumps on the first plant it finds.
+{AQUATIC}Only appears in the pool.
 {SHORTLINE}
-{FLAVOR}El delfin es un delfin zombi.
+{FLAVOR}The dolphin is a zombie dolphin.
 
 [ZOMBIE_YETI_DESCRIPTION]
-Una criatura, cuanto menos, rara.
+A creature that is, to say the least, strange.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} alta {1350}
-{KEYWORD}Especial:{STAT} se marcha tras un tiempo.
+{KEYWORD}Hardness:{STAT} high {1350}
+{KEYWORD}Special:{STAT} Leaves after a while.
 {SHORTLINE}
-{FLAVOR}Poco se sabe del Zombi Yeti a parte de su nombre, fecha de nacimiento, numero de la
-seguridad social, historial academico y laboral, y su plato favorito: tortilla de sesos.
+{FLAVOR}Little is known about the Zombie Yeti other than his name, date of birth, social security number,
+academic and work history, and his favorite dish: brain omelet.
 
 [JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION]
-Lleva una sorpresa que es la bomba.
+He carries a surprise that is the bomb.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {500}
-{KEYWORD}Velocidad:{STAT} rapido
-{KEYWORD}Especial:{STAT} si, explota.
-{KEYMETAL}Debilidad:{METAL} Magnetoseta
+{KEYWORD}Hardness:{STAT} medium {500}
+{KEYWORD}Speed:{STAT} fast
+{KEYWORD}Special:{STAT} yes, it explodes.
+{KEYMETAL}Weakness:{METAL} Magnetose
 {SHORTLINE}
-{FLAVOR}Este zombi tiene espasmos; no por el frio, sino porque esta loco.
+{FLAVOR}This zombie has spasms; not because of the cold, but because it's crazy.
 
 [BALLOON_ZOMBIE_DESCRIPTION]
-El Zombi con globo sobrevuela el terreno, inmune a casi todo.
+The Balloon Zombie flies over the terrain, immune to almost everything.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
-{KEYWORD}Especial:{STAT} volar
-{KEYWORD}Debilidad:{STAT} Cactus y Trebolador
+{KEYWORD}Hardness:{STAT} low {270}
+{KEYWORD}Special:{STAT} flying
+{KEYWORD}Weakness:{STAT} Cactus and Trebolador
 {SHORTLINE}
-{FLAVOR}El Zombi con globo ha tenido mucha potra. Lo del globo funciona
-bien y ningun zombi sabe como ni por que.
+{FLAVOR}The Balloon Zombie has been very lucky. The balloon works
+well, and no zombie knows how or why.
 
 [DIGGER_ZOMBIE_DESCRIPTION]
-Este zombi excava para sortear tus defensas.
+This zombie digs to get around your defenses.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {370}
-{KEYWORD}Velocidad:{STAT} rapido, luego lento
-{KEYWORD}Especial:{STAT} excava un tunel y aparece en la parte izquierda del jardin.
-{KEYWORD}Debilidad:{STAT} Bipetidora y{METAL} Magnetoseta{KEYWORD}
+{KEYWORD}Toughness:{STAT} medium {370}
+{KEYWORD}Speed:{STAT} fast, then slow
+{KEYWORD}Special:{STAT} digs a tunnel and appears on the left side of the garden.
+{KEYWORD}Weakness:{STAT} Bipetidora and{METAL} Magnetoseta{KEYWORD}
 {SHORTLINE}
-{FLAVOR}El Zombi picado se pasa tres dias a la semana reglando sus permisos de obras.
+{FLAVOR}The Chopped Zombie spends three days a week regulating his building permits.
 
 [POGO_ZOMBIE_DESCRIPTION]
-El Zombi saltarin salta para superar tus defensas.
+The Jumping Zombie jumps to overcome your defenses.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {500}
-{KEYWORD}Especial:{STAT} salta plantas.
-{KEYMETAL}Debilidad:{METAL} Magnetoseta
+{KEYWORD}Hardness:{STAT} medium {500}
+{KEYWORD}Special:{STAT} jumps over plants.
+{KEYMETAL}Weakness:{METAL} Magnetoseed
 {SHORTLINE}
-{FLAVOR}"¡Doing! ¡Doing! ¡Doing!", es el sonido de un zombi perfectamente equipado para asaltar tu casa.
+{FLAVOR}“Doing! Doing! Doing!” is the sound of a zombie perfectly equipped to storm your house.
 
 [BUNGEE_ZOMBIE_DESCRIPTION]
-El Zombi colgao ataca desde arriba.
+The Bungee Zombie attacks from above.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {400}
-{KEYWORD}Especial:{STAT} baja del cielo y te roba una planta.
+{KEYWORD}Toughness:{STAT} Medium {400}
+{KEYWORD}Special:{STAT} Drops from the sky and steals a plant from you.
 {SHORTLINE}
-{FLAVOR}Al Zombi colgao le gusta el riesgo. Despues de todo, ¿para que vale estar muerto si no vives un poco?
+{FLAVOR}The Hanging Zombie likes to take risks. After all, what's the point of being dead if you don't live a little?
 
 [LADDER_ZOMBIE_DESCRIPTION]
-El Zombi escalador escala obstaculos.
+The Climbing Zombie climbs obstacles.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {500}
-{KEYWORD}Dureza de escalera:{STAT} media {500}
-{KEYWORD}Velocidad:{STAT} rapido, lento tras escalar
-{KEYWORD}Debilidad:{STAT} Humoseta y{METAL} Magnetoseta{KEYWORD}
+{KEYWORD}Hardness:{STAT} medium {500}
+{KEYWORD}Ladder hardness:{STAT} medium {500}
+{KEYWORD}Speed:{STAT} fast, slow after climbing
+{KEYWORD}Weakness:{STAT} Smoke Set and{METAL} Magnet Set{KEYWORD}
 {SHORTLINE}
-{FLAVOR}La escalera le costo 8,99 euros.
+{FLAVOR}The ladder cost him €8.99.
 
 [CATAPULT_ZOMBIE_DESCRIPTION]
 Zombipulta
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} media {850}
-{KEYWORD}Especial:{STAT} lanza pelotas de basquet.
+{KEYWORD}Hardness:{STAT} medium {850}
+{KEYWORD}Special:{STAT} throws basketballs.
 {SHORTLINE}
-{FLAVOR}De todas las cosas que el Zombipulta podia escoger para lanzar, parece que las
-pelotas de basquet eran lo mejor.
+{FLAVOR}Of all the things the Zombipulta could choose to throw, it seems that
+basketballs were the best.
 
 [GARGANTUAR_DESCRIPTION]
-Zombistein es un zombi con gigantismo.
+Zombistein is a zombie with gigantism.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} extremadamente alta {3000}
+{KEYWORD}Toughness:{STAT} extremely high {3000}
 {SHORTLINE}
-{FLAVOR}Cuando Zombistein camina, tiembla la tierra; y cuando grune, todos callan.
-Es el zombi que todo zombi suena con poder ser. Y aun asi, sigue soltero.
+{FLAVOR}When Zombistein walks, the earth trembles; when he growls, everyone falls silent.
+He is the zombie that every zombie dreams of being. And yet, he remains single.
 
 [IMP_DESCRIPTION]
-Zombistein lanzara a su Zombidito por encima de tus defensas.
+Zombistein will throw his Little Zombie over your defenses.
 {SHORTLINE}
-{KEYWORD}Dureza:{STAT} baja {270}
+{KEYWORD}Toughness:{STAT} low {270}
 {SHORTLINE}
-{FLAVOR}Puede que el Zombidito sea un canijo, pero cuidadito con el: es cinturon negro de zombijudo y zombikarate.
-Le gusta silbar, aunque no sabe. De ahi su nombre.
+{FLAVOR}Zombidito may be a weakling, but watch out for him: he has a black belt in zombie judo and zombie karate.
+He likes to whistle, even though he can't. Hence his name.
 
 [BOSS_DESCRIPTION]
-El Dr. Zombi es quien manda.
+Dr. Zombie is the boss.
 {SHORTLINE}
-{KEYWORD}Dureza (en Zombot):{STAT} extrema
+{KEYWORD}Toughness (in Zombot):{STAT} extreme
 {SHORTLINE}
-{FLAVOR}Edgar George Zombi se doctoro en Tanatologia en tan solo dos anos. Con sus conocimientos de
-tecnologia tanatologica diseno a su temido Zombot y se puso manos a la obra para dominar los barrios que le tocan.
+{FLAVOR}Edgar George Zombi earned his doctorate in Thanatology in just two years. With his knowledge of
+thanatological technology, he designed his fearsome Zombot and set out to dominate his neighborhoods.
 
 [DOG_WALKING_ZOMBIE_DESCRIPTION]
 Dog Walking Zombie description
@@ -1097,1190 +1091,1190 @@ Dog Zombie description
 Propeller Zombie description
 
 [CRAZY_DAVE_201]
-Buenas, {PLAYER_NAME}.
+Hey there, {PLAYER_NAME}.
 [CRAZY_DAVE_202]
-¿Que? Esos zombis no se rinden, ¿eh?
+What? Those zombies don't give up, huh?
 [CRAZY_DAVE_203]
-Te habras dado cuenta que es diferente combatir zombis de dia que de noche.
+You've probably noticed that fighting zombies during the day is different from fighting them at night.
 [CRAZY_DAVE_204]
-Por tu parte, no tendras nada de sol caido del cielo.
+For your part, you won't have any sunshine falling from the sky.
 [CRAZY_DAVE_205]
-Aunque puedes producirlo con Girasoles, claro.
+Although you can produce it with Sunflowers, of course.
 [CRAZY_DAVE_206]
-Y por suerte para ti cuentas con unas Setas deseporadas.
+And luckily for you, you have some Desperate Mushrooms.
 [CRAZY_DAVE_207]
-¡Planta tantas como puedas!
+Plant as many as you can!
 
 [CRAZY_DAVE_301]
-¡Has encontrado las llaves de mi coche!
+You found my car keys!
 [CRAZY_DAVE_302]
-¿Sabes lo que significa eso?
+Do you know what that means?
 [CRAZY_DAVE_303]
-¡La tienda de Crazy Dave esta abierta!{MOUTH_SMALL_SMILE}
+Crazy Dave's shop is open!{MOUTH_SMALL_SMILE}
 [CRAZY_DAVE_304]
-¡Echa un vistazo a ver si te gusta algo del genero!{MOUTH_SMALL_SMILE}
+Take a look and see if you like anything!{MOUTH_SMALL_SMILE}
 
 [CRAZY_DAVE_401]
-¿Conoces el juego del topo y la pala?
+You know the game with the mole and the shovel?
 [CRAZY_DAVE_402]
-Es como cazar bichos de esos.
+It's like hunting those critters.
 [CRAZY_DAVE_403]
-Ya sabes, esos malditos roedores que cavan agujeros en el jardin.
+You know, those damn rodents that dig holes in the garden.
 [CRAZY_DAVE_404]
-Pues eso. Pero en vez de topos, zombis.
+Exactly. But instead of moles, zombies.
 [CRAZY_DAVE_405]
-{SHOW_HAMMER}Y en vez darles con una pala, con un mazo.
+{SHOW_HAMMER}And instead of hitting them with a shovel, you hit them with a sledgehammer.
 [CRAZY_DAVE_406]
-Y en vez de mi, ¡TU!{MOUTH_BIG_SMILE} {SCREAM}
+And instead of me, YOU!{MOUTH_BIG_SMILE} {SCREAM}
 
 [CRAZY_DAVE_501]
-Parece que los zombis desisten en atacarte por el frente.
+Looks like the zombies are giving up on attacking you from the front.
 [CRAZY_DAVE_502]
-Se dirigen al jardin trasero.
+They're heading for the backyard.
 [CRAZY_DAVE_503]
-¡Y encima no puedes usar las Setas!
+And on top of that, you can't use the Mushrooms!
 [CRAZY_DAVE_504]
-¡Porque duermen de dia!
+Because they sleep during the day!
 [CRAZY_DAVE_505]
-¡Pero que ven mis ojos!
+What do my eyes see!
 
 [CRAZY_DAVE_601]
-¡¡HAS ENCONTRADO MI TACO MAGICO!!{SCREAM2}
+YOU FOUND MY MAGIC CLUBB!!{SCREAM2}
 [CRAZY_DAVE_602]
-{SHOW_MONEYBAG}¡Tengo que recuperarlo! ¿¡1.000 pavos!?
+{SHOW_MONEYBAG}I have to get it back! 1,000 bucks!?
 [CRAZY_DAVE_603]
-¡SI! ¡POR FIN LO TENGO!{SCREAM}
+YES! I FINALLY HAVE IT!{SCREAM}
 [CRAZY_DAVE_604]
-¿Por que pagaria tanto por un taco?
+Why would I pay so much for a bat?
 [CRAZY_DAVE_605]
-{SHAKE}¡¡¡PORQUE ESTOY LOOOCO!!!{MOUTH_BIG_SMILE}
+{SHAKE} BECAUSE I'M CRAZY!!!{MOUTH_BIG_SMILE}
 [CRAZY_DAVE_606]
-Echale un vistazo al genero. ¡Tengo cosas nuevas! ¡No te las pierdas!
+Check out the store. I've got new stuff! Don't miss out!
 
 [CRAZY_DAVE_701]
-Que curioso el proceso de los zombis. A veces salen muy, pero que muy pequenos.
+The zombie process is so weird. Sometimes they come out really, really small.
 [CRAZY_DAVE_702]
-¡Pequenos y con mala leche!
+Small and mean!
 [CRAZY_DAVE_703]
-¡Vigila las espinillas!{SCREAM}
+Watch out for the pimples!{SCREAM}
 
 [CRAZY_DAVE_801]
-¿Sabes?, antes me llamaban el Hombre Niebla...
+You know, they used to call me the Fog Man...
 [CRAZY_DAVE_802]
-...porque me escondia en la niebla y, ¡ASUSTABA A LA GENTE!{MOUTH_BIG_SMILE}
+...because I would hide in the fog and SCARE PEOPLE!{MOUTH_BIG_SMILE}
 [CRAZY_DAVE_803]
-Ah... Que dias aquellos.{MOUTH_SMALL_SMILE}
+Ah... Those were the days.{MOUTH_SMALL_SMILE}
 
 [CRAZY_DAVE_1101]
-¿Por que ha oscurecido tan de repente?
+Why did it get dark so suddenly?
 [CRAZY_DAVE_1102]
-Mal asunto...
+Bad news...
 [CRAZY_DAVE_1103]
-Bueno, ¡suerte y que sobrevivas a la noche!
+Well, good luck and survive the night!
 
 [CRAZY_DAVE_1201]
-¡Tate! ¡Los tienes hasta en el tejado!
+Tate! They're even on the roof!
 [CRAZY_DAVE_1202]
-Esos zombis te la tienen jurada, amigo.
+Those zombies are out to get you, buddy.
 [CRAZY_DAVE_1203]
-Tendras que usar Coltapultas aqui por el angulo del tejado.
+You'll have to use Catapults here because of the angle of the roof.
 [CRAZY_DAVE_1204]
-Ten eso presente, ¡y te las apanaras!
+Keep that in mind, and you'll be fine!
 
 [CRAZY_DAVE_1301]
-El Jardin Zen es lo mas, ¿que no?
+The Zen Garden is the best, isn't it?
 [CRAZY_DAVE_1302]
-Puedes visitarlo desde el menu principal.
+You can visit it from the main menu.
 [CRAZY_DAVE_1303]
-¡Pero ahora hay que ponerse a defender la casa!
+But now we have to defend the house!
 [CRAZY_DAVE_1304]
-Y tengo que advertirte...
+And I have to warn you...
 [CRAZY_DAVE_1305]
-...que vas a odiar este nivel.
+...you're going to hate this level.
 [CRAZY_DAVE_1306]
-¿Que por que? Pues porque es un Zombi colgao tras otro.
+Why? Because it's one zombie after another.
 [CRAZY_DAVE_1307]
-¡Odio a esos cabezas huecas!{SCREAM2}
+I hate those empty-headed fools!{SCREAM2}
 [CRAZY_DAVE_1308]
-¡Los odio!
+I hate them!
 [CRAZY_DAVE_1309]
-¡Los odio con todas mis fuerzas!
+I hate them with all my might!
 [CRAZY_DAVE_1310]
-¡Y con sana!
+And with good reason!
 [CRAZY_DAVE_1311]
-¡Yeeepa! ¡Ya vienen esos monos!
+Yeeepa! Here come those monkeys!
 
 [CRAZY_DAVE_1401]
-¡Eh, has conseguido {MONEY} monedas hasta ahora!
+Hey, you've earned {MONEY} coins so far!
 [CRAZY_DAVE_1402]
-Cuando tengas {UPGRADE_COST} te vendere una cosa que lo flipas.
+When you have {UPGRADE_COST}, I'll sell you something that will blow your mind.
 
 [CRAZY_DAVE_1501]
-¡Ey! ¿Quieres comprar un espacio extra?
+Hey! Want to buy some extra space?
 [CRAZY_DAVE_1502]
-Te lo dejo en {UPGRADE_COST}, ¡y podras llevarte 7 semillas por nivel en lugar de 6!
+I'll let you have it for {UPGRADE_COST}, and you can take 7 seeds per level instead of 6!
 [CRAZY_DAVE_1503]
-{NO_CLICK}¿Que te parece?
+{NO_CLICK}What do you think?
 [CRAZY_DAVE_1510]
-¡Vale! Y cuando ahorres {UPGRADE_COST}, ¡te vendere otro espacio extra!
+Okay! And when you save up {UPGRADE_COST}, I'll sell you another extra space!
 [CRAZY_DAVE_1511]
-¡Ta' luego!
+See you later!
 [CRAZY_DAVE_1520]
-¡Pues vaya!
+Wow!
 
 [CRAZY_DAVE_1551]
-¡Ey! ¿Quieres comprar un espacio extra?
+Hey! Want to buy some extra space?
 [CRAZY_DAVE_1552]
-Por ser tu, seran {UPGRADE_COST}, ¡y podras llevarte 8 semillas por nivel en lugar de 7!
+Just for you, it'll be {UPGRADE_COST}, and you can take 8 seeds per level instead of 7!
 [CRAZY_DAVE_1553]
-{NO_CLICK}¿Que te parece?
+{NO_CLICK}What do you think?
 [CRAZY_DAVE_1560]
-¡Ahi te quiero ver!
+Let's see you try!
 [CRAZY_DAVE_1570]
-¡Pues vaya!
+Wow!
 
 [UPGRADE_DIALOG_BODY]
 Upgrade to {SLOTS} seed slots?
 
 [CRAZY_DAVE_1601]
-¡Amigo, no paran de llegar zombis!
+Dude, the zombies keep coming!
 [CRAZY_DAVE_1602]
-¡Esta vez yo elegire algunas semillas por ti!
+This time I'll pick some seeds for you!
 [CRAZY_DAVE_1603]
-Mmm... ¡Estas tres!
+Hmm... These three!
 
 [CRAZY_DAVE_1700]
-{NO_CLICK}¡Te doy ${SELL_PRICE} por tu {PLANT_TYPE}!
+{NO_CLICK}I'll give you ${SELL_PRICE} for your {PLANT_TYPE}!
 
 [CRAZY_DAVE_2000]
- {NO_CLICK}Plantalas sobre tus Repetidoras para convertirlas en Guisantralladoras. ¡Disparan 4 guisantes a la vez!
+{NO_CLICK}Plant them on top of your Repeaters to turn them into Peashooters. They shoot 4 peas at once!
 
 [CRAZY_DAVE_2001]
- {NO_CLICK}Plantalas sobre tus Girasoles para convertirlos en Birasoles. ¡Los Birasoles producen el doble de sol!
+{NO_CLICK}Plant them on your Sunflowers to turn them into Sunbeams. Sunbeams produce twice as much sun!
 
 [CRAZY_DAVE_2002]
- {NO_CLICK}Plantalas sobre tus Humosetas para convertirlas en Gasosetas. ¡Las Gasosetas atacan rapido en un area pequena!
+ {NO_CLICK}Plant them on your Smoke-o-mats to turn them into Gas-o-mats. Gas-o-mats attack quickly in a small area!
 
 [CRAZY_DAVE_2003]
- {NO_CLICK}Plantalas sobre tus Nenufares para convertirlos en Rabos de gato. ¡Atacaran en una linea y reventaran globos!
+ {NO_CLICK}Plant them on your Water Lilies to turn them into Cattails. They attack in a line and pop balloons!
 
 [CRAZY_DAVE_2004]
- {NO_CLICK}Plantalas sobre tus Melonpultas para convertirlas en Melonpultas congeladas. ¡Causaran grandes danos y ralentizaran al enemigo!
+ {NO_CLICK}Plant them on your Melonpults to turn them into frozen Melonpults. They'll cause great damage and slow down the enemy!
 
 [CRAZY_DAVE_2005]
- {NO_CLICK}Plantalas sobre tus Magnetosetas para convertirlas en Magnetosetas doradas. ¡Recogeran las monedas y los diamantes por ti!
+ {NO_CLICK}Plant them on your Magnetosets to turn them into Golden Magnetosets. They will collect coins and diamonds for you!
 
 [CRAZY_DAVE_2006]
- {NO_CLICK}Plantalas sobre tus Pinchohierbas para convertirlas en Pinchorrocas. ¡Infringiran el doble de dano y son extremadamente duras!
+ {NO_CLICK}Plant them on your Pinchohierbas to turn them into Pinchorrocas. They will inflict double damage and are extremely hard!
 
 [CRAZY_DAVE_2007]
- {NO_CLICK}Plantalas sobre tus Lanzamaices para convertirlos en Mazorcanones. ¡Haz clic en uno para lanzar un ataque devastador!
+ {NO_CLICK}Plant these on top of your Corn-Throwers to turn them into Corn-Cannons. Click on one to launch a devastating attack!
 
 [CRAZY_DAVE_2008]
- {NO_CLICK}¡Esta Imitadora te permite tener dos de la misma planta en un nivel!
+ {NO_CLICK}This Imitator allows you to have two of the same plant in one level!
 
 [CRAZY_DAVE_2009]
- {NO_CLICK}Esta Cortadora de cesped te proporcionara una linea de defensa remplazando a una usada.
+ {NO_CLICK}This Lawnmower will give you a line of defense by replacing a used one.
 
 [CRAZY_DAVE_2010]
- {NO_CLICK}¡Este brote de Margarita ira a tu Jardin Zen! ¡Si consigues que crezca del todo, te recompensara!
+ {NO_CLICK}This Daisy Sprout will go to your Zen Garden! If you get it to grow all the way, it will reward you!
 
 [CRAZY_DAVE_2011]
- {NO_CLICK}¡Este espacio extra te permitira escoger 7 plantas por nivel!
+ {NO_CLICK}This extra space will allow you to choose 7 plants per level!
 
 [CRAZY_DAVE_2012]
- {NO_CLICK}¡Este espacio extra te permitira escoger 8 plantas por nivel!
+ {NO_CLICK}This extra space will allow you to choose 8 plants per level!
 
 [CRAZY_DAVE_2013]
- {NO_CLICK}¡Este espacio extra te permitira escoger 9 plantas por nivel!
+ {NO_CLICK}This extra space will allow you to choose 9 plants per level!
 
 [CRAZY_DAVE_2014]
- {NO_CLICK}¡Este espacio extra te permitira escoger 10 plantas por nivel!
+ {NO_CLICK}This extra space will allow you to choose 10 plants per level!
 
 [CRAZY_DAVE_2015]
-{NO_CLICK}¡¡Todo el genero de rebajas, senores!!
+{NO_CLICK}Everything on sale, folks!!
 
 [CRAZY_DAVE_2016]
-{NO_CLICK}¡TIRADO DE PRECIO! ¡ESTOY LOOOCO! {SCREAM}
+{NO_CLICK}BARGAIN PRICES! I'M CRAZY! {SCREAM}
 
 [CRAZY_DAVE_2017]
-{NO_CLICK}¡Precios increibles!
+{NO_CLICK}Incredible prices!
 
 [CRAZY_DAVE_2018]
-{NO_CLICK}¡Me como la comida que se me cae al culo!
+{NO_CLICK}I eat the food that falls off my butt!
 
 [CRAZY_DAVE_2019]
- {NO_CLICK}¡Con la Regadera dorada regaras varias plantas a la vez!
+{NO_CLICK}With the golden watering can, you can water several plants at once!
 
 [CRAZY_DAVE_2020]
- {NO_CLICK}¡Tus plantas Zen necesitan abono para crecer!
+{NO_CLICK}Your Zen plants need fertilizer to grow!
 
 [CRAZY_DAVE_2021]
- {NO_CLICK}¡Pon musica con este Fonografo para que las plantas de tu Jardin Zen esten todo el dia contentas!
+ {NO_CLICK}Play music with this Phonograph so that the plants in your Zen Garden are happy all day long!
 
 [CRAZY_DAVE_2022]
- {NO_CLICK}Tus plantas Zen necesitan ser fumigadas de vez en cuando. ¡Y estaran contentas todo el dia!
+ {NO_CLICK}Your Zen plants need to be sprayed from time to time. And they'll be happy all day long!
 
 [CRAZY_DAVE_2023]
- {NO_CLICK}Con los Guantes de jardin podras reubicar tus plantas Zen.
+ {NO_CLICK}With gardening gloves, you can relocate your Zen plants.
 
 [CRAZY_DAVE_2024]
- {NO_CLICK}¡Con esta Carretilla podras transportar plantas de un Jardin Zen a otro!
+ {NO_CLICK}With this wheelbarrow, you can transport plants from one Zen Garden to another!
 
 [CRAZY_DAVE_2025]
- {NO_CLICK}¡Stinky el caracol te ayuda a recoger monedas en el Jardin Zen!
+ {NO_CLICK}Stinky the snail helps you collect coins in the Zen Garden!
 
 [CRAZY_DAVE_2026]
- {NO_CLICK}¡Estos Limpiapiscinas son una linea de defensa extra para piscinas!
+ {NO_CLICK}These pool cleaners are an extra line of defense for pools!
 
 [CRAZY_DAVE_2027]
- {NO_CLICK}¡Estos Limpiatejados son una linea de defensa extra para niveles con tejado!
+ {NO_CLICK}These roof cleaners are an extra line of defense for levels with roofs!
 
 [CRAZY_DAVE_2028]
- {NO_CLICK}¡Este Rastrillo acaba con el primer zombi que lo pise! ¡Y dura 3 niveles!
+ {NO_CLICK}This rake kills the first zombie that steps on it! And it lasts for 3 levels!
 
 [CRAZY_DAVE_2029]
- {NO_CLICK}¡En este Acuario Zen podras plantar tus plantas acuaticas Zen!
+ {NO_CLICK}In this Zen Aquarium, you can plant your Zen aquatic plants!
 
 [CRAZY_DAVE_2030]
- {NO_CLICK}¡El Arbol de la sabiduria te dara valiosos consejos y otros secretos si lo haces crecer!
+ {NO_CLICK}The Tree of Wisdom will give you valuable advice and other secrets if you make it grow!
 
 [CRAZY_DAVE_2031]
- {NO_CLICK}¡Compra abono de arboles para que tu Arbol de la sabiduria crezca alto y sano!
+ {NO_CLICK}Buy tree fertilizer so your Tree of Wisdom grows tall and healthy!
 
 [CRAZY_DAVE_2032]
- {NO_CLICK}¡En este Jardin de Setas podras plantar tus setas Zen que se duerman durante el dia!
+ {NO_CLICK}In this Mushroom Garden, you can plant your Zen mushrooms that sleep during the day!
 
 [CRAZY_DAVE_2033]
- {NO_CLICK}El Botiquin de Nuez deja a las Nueces como nuevas tras recibir danos. ¡Y tambien a las Calabazas y Nueces cascara-rabias!
+ {NO_CLICK}The Nut First Aid Kit leaves Nuts as good as new after they've been damaged. And Pumpkins and Shelled Nuts too!
 
 [CRAZY_DAVE_2034]
- {NO_CLICK}¡Mas niveles, mas plantas y mas zombis en la version completa del juego!
+ {NO_CLICK}More levels, more plants, and more zombies in the full version of the game!
 
 [CRAZY_DAVE_2100]
-¡Anda! ¡Pero si has encontrado una Regadera!
+Hey! Look what you found—a Watering Can!
 [CRAZY_DAVE_2101]
-Y para tan senalada
-ocasion, te presento
-¡tu propio Jardin Zen!
+And for such a special occasion,
+I present to you
+your very own Zen Garden!
 [CRAZY_DAVE_2102]
-¡Incluso te dare dos brotes para que puedas empezar!
+I'll even give you two sprouts to get you started!
 [CRAZY_DAVE_2103]
-¡Consigue que crezcan por completo y te recompensaran!
+Grow them to full size and they'll reward you!
 [CRAZY_DAVE_2104]
-¡Que te diviertas!
+Have fun!
 
 [CRAZY_DAVE_2200]
-Los zombis me pidieron que les ayudara a practicar sus asaltos.
+The zombies asked me to help them practice their attacks.
 [CRAZY_DAVE_2201]
-Les dije que vale, mientras ninguna planta saliera malparada.
+I told them okay, as long as no plants got hurt.
 [CRAZY_DAVE_2202]
-Asi que he puesto recortes de carton por tu jardin.
+So I put cardboard cutouts around your garden.
 [CRAZY_DAVE_2203]
-¡Que te diviertas!
+Have fun!
 
 [CRAZY_DAVE_2300]
-Oh-oh, ha venido...
+Uh-oh, he's here...
 [CRAZY_DAVE_2301]
-Ya te puedes ir preparando.
+You better get ready.
 [CRAZY_DAVE_2302]
-¡Menuda se va a liar aqui!
+This is going to get messy!
 [CRAZY_DAVE_2303]
-¡Pero yo se cual es su punto debil!
+But I know his weak spot!
 [CRAZY_DAVE_2304]
-¡Tienes que atizarle en el pancreas!
+You have to hit him in the pancreas!
 [CRAZY_DAVE_2305]
-No... eso era a otro tipo...
+No... that was someone else...
 [CRAZY_DAVE_2306]
-Tienes que... eh... darle en...
+You have to... uh... hit him in...
 [CRAZY_DAVE_2307]
-Esto...
+This...
 [CRAZY_DAVE_2308]
-¡Ah, si! ¡Pulsa arriba x 2, abajo x 2, izq. y dcha...
+Oh, yes! Press up x 2, down x 2, left and right...
 [CRAZY_DAVE_2309]
-Esto...
+This...
 [CRAZY_DAVE_2310]
-Espera, ¡ya lo recuerdo! Era...{MOUTH_SMALL_OH}
+Wait, I remember now! It was...{MOUTH_SMALL_OH}
 
 [CRAZY_DAVE_2400]
-¡Buenas, vecino!
+Hey, neighbor!
 [CRAZY_DAVE_2401]
-Me llamo Crazy Dave.
+My name is Crazy Dave.
 [CRAZY_DAVE_2402]
-Pero puedes llamarme solo Crazy Dave.
+But you can just call me Crazy Dave.
 [CRAZY_DAVE_2403]
-Bueno, venia a darte una cosita.
+Well, I came to give you a little something.
 [CRAZY_DAVE_2404]
-Pero primero tienes que despejar tu jardin.
+But first you have to clear your yard.
 [CRAZY_DAVE_2405]
-¡Usa la Pala para quitar esas plantas!
+Use the Shovel to remove those plants!
 [CRAZY_DAVE_2406]
-¡QUE COMIENCE EL 'APALEAMIENTO'!{MOUTH_SMALL_OH} {SCREAM}
+LET THE ‘BEATING’ BEGIN!{MOUTH_SMALL_OH} {SCREAM}
 
 [CRAZY_DAVE_2410]
-Muy bien, y ahora la sorpresa...
+All right, now for the surprise...
 [CRAZY_DAVE_2411]
-¡Juguemos a los bolos!{MOUTH_SMALL_SMILE}
+Let's play bowling!{MOUTH_SMALL_SMILE}
 [CRAZY_DAVE_2412]
-{SHOW_WALLNUT}¡¡TOMA!! ¡¡UNA NUEZ!!
+{SHOW_WALLNUT}TAKE THAT!! A WALNUT!!
 [CRAZY_DAVE_2413]
-¿Y por que te pongo una nuez en la mano?{MOUTH_SMALL_OH}
+And why am I putting a walnut in your hand?{MOUTH_SMALL_OH}
 [CRAZY_DAVE_2414]
-{SHAKE}¡¡¡Porque estoy LOOOCO!!!{MOUTH_BIG_SMILE}
+{SHAKE}Because I'm CRAZY!!!{MOUTH_BIG_SMILE}
 [CRAZY_DAVE_2415]
-¡VENGA! ¡HAZ UN BUEN LANZAMIENTO!{MOUTH_BIG_SMILE} {SCREAM}
+COME ON! MAKE A GOOD THROW!{MOUTH_BIG_SMILE} {SCREAM}
 
 [CRAZY_DAVE_2500]
-Mi amigo Harvey Flaxcaster y yo rompiamos jarrones cuando nos aburriamos.
+My friend Harvey Flaxcaster and I used to break vases when we were bored.
 [CRAZY_DAVE_2501]
-Ahora esta fuera, asi que tu te vienes conmigo; ¡seras Harvey 2!
+Now he's out, so you're coming with me; you'll be Harvey 2!
 [CRAZY_DAVE_2502]
-¡ROMPELO CON GANAS, HARVEY!{SCREAM}
+BREAK IT WITH PASSION, HARVEY!{SCREAM}
 
 [CRAZY_DAVE_2600]
-¡Hola! Bienvenido a la seccion Zen de mi tienda.
+Hello! Welcome to the Zen section of my store.
 [CRAZY_DAVE_2601]
-{SHOW_FERTILIZER}¡Te dare algo de abono solo por pasarte por aqui!
+{SHOW_FERTILIZER}I'll give you some fertilizer just for stopping by!
 [CRAZY_DAVE_2602]
-Echa una ojeada a ver si hay algo mas que te pueda interesar.
+Take a look around to see if there's anything else that interests you.
 
 [CRAZY_DAVE_2700]
-¡Tio, los has roto que da gusto!
+Man, you broke them so good!
 [CRAZY_DAVE_2701]
-¡Rompelos como cuando me rompi la espalda escarbando en los botes de basura!
+Break them like I broke my back digging through trash cans!
 [CRAZY_DAVE_2702]
-Toma, te he traido mas jarrones.
+Here, I brought you some more vases.
 [CRAZY_DAVE_2703]
-Pero cuidado, no vayas a romperlos demasiado deprisa.
+But be careful, don't break them too quickly.
 [CRAZY_DAVE_2704]
-No querras que haya mas zombis de con los que puedas, ¿no?
+You don't want there to be more zombies than you can handle, do you?
 
 [CRAZY_DAVE_2800]
-¡Ahi te quiero ver!
+Let's see you try!
 [CRAZY_DAVE_2801]
-Este debe de ser el ultimo.
+This must be the last one.
 [CRAZY_DAVE_2802]
-¡Rompe estos y habras terminado!
+Break these and you're done!
 
 [CRAZY_DAVE_3000]
-Esto es un Rompejarrones.
+This is a Glass Breaker.
 [CRAZY_DAVE_3001]
-Algunos de estos niveles son muy dificiles.
+Some of these levels are very difficult.
 [CRAZY_DAVE_3002]
-¡Buena suerte!
+Good luck!
 
 [CRAZY_DAVE_3100]
-¡Hola, vecino! ¡Tengo productos nuevos!
+Hey, neighbor! I've got some new products!
 
 [CRAZY_DAVE_3200]
-{SHOW_TREE_FOOD}¡Hola, {PLAYER_NAME}! ¡Este es tu Arbol de la sabiduria! Te he traido abono de arboles para ayudarte.
+{SHOW_TREE_FOOD}Hey, {PLAYER_NAME}! This is your Tree of Wisdom! I brought you some tree fertilizer to help you out.
 
 [CRAZY_DAVE_3300]
-{TIME_275}¡Fin del trayecto, amigo!{DELAY_50}
+{TIME_275}End of the road, buddy!{DELAY_50}
 [CRAZY_DAVE_3301]
-{TIME_275}Sip. Tu ya te venias venir esto.{DELAY_50}
+{TIME_275}Yep. You saw this coming.{DELAY_50}
 [CRAZY_DAVE_3302]
-{TIME_325}¿Quieres continuar? Hazte con la VERSION COMPLETA.{DELAY_50}
+{TIME_325}Want to continue? Get the FULL VERSION.{DELAY_50}
 [CRAZY_DAVE_3303]
-{TIME_275}Vale, sere mas amable, sasafras...{DELAY_50}
+{TIME_275}Okay, I'll be nicer, sassafras...{DELAY_50}
 [CRAZY_DAVE_3304]
-{TIME_325}Si te bajas la VERSION COMPLETA, ¡te dare mas PLANTAS!{DELAY_25}
+{TIME_325}If you download the FULL VERSION, I'll give you more PLANTS!{DELAY_25}
 [CRAZY_DAVE_3305]
-{TIME_175}{SCREAM}{HANDING}¡COMO ESTA!{DELAY_50}
+{TIME_175}{SCREAM}{HANDING}HOW'S THAT!{DELAY_50}
 [CRAZY_DAVE_3306]
-{TIME_175}{SCREAM}{HANDING}¡Y ESTA!{DELAY_50}
+{TIME_175}{SCREAM}{HANDING}AND THIS ONE!{DELAY_50}
 [CRAZY_DAVE_3307]
-{TIME_275}{HANDING}y mas adelante, ¡incluso ESTAAA!{DELAY_50}
+{TIME_275}{HANDING}and later on, even THIS ONE!{DELAY_50}
 [CRAZY_DAVE_3308]
-{TIME_125}{SHORT_SOUND}{HANDING}¿Que por que?{DELAY_50}
+{TIME_125}{SHORT_SOUND}{HANDING}Why?{DELAY_50}
 [CRAZY_DAVE_3309]
-{TIME_225}{SHAKE}¡¡¡Porque estoy LOOOCO!!!{MOUTH_BIG_SMILE}{DELAY_150}
+{TIME_225}{SHAKE}Because I'm CRAZY!!!{MOUTH_BIG_SMILE}{DELAY_150}
 [CRAZY_DAVE_3310]
-{TIME_150}Y, ¡oye!{DELAY_50}
+{TIME_150}And hey!{DELAY_50}
 [CRAZY_DAVE_3311]
-{TIME_175}¿Quieres accion?{DELAY_50}
+{TIME_175}You want action?{DELAY_50}
 [CRAZY_DAVE_3312]
-{TIME_200}{SCREAM}¡YO TE DARE ACCION!{DELAY_300}
+{TIME_200}{SCREAM}I'LL GIVE YOU ACTION!{DELAY_300}
 [CRAZY_DAVE_3313]
-{TIME_300}{SCREAM2}¡25 NIVELAZOS DE ACCION!{DELAY_300}
+{TIME_300}{SCREAM2}25 LEVELS OF ACTION!{DELAY_300}
 [CRAZY_DAVE_3314]
-{TIME_300}{SCREAM}¡40 MINIJUEGOS Y PUZZLES!{DELAY_50}
+{TIME_300}{SCREAM}40 MINI-GAMES AND PUZZLES!{DELAY_50}
 [CRAZY_DAVE_3315]
-{TIME_200}¡¡TERRACOTA!!{DELAY_100}
+{TIME_200}TERRACOTTA!!{DELAY_100}
 [CRAZY_DAVE_3316]
-{TIME_300}{SCREAM2}¡¡CON ESTO YA TE ESTALLARIA LA CABEZA HASTA LA LUNA!!{DELAY_300}
+{TIME_300}{SCREAM2}THIS WILL BLOW YOUR MIND TO THE MOON!!{DELAY_300}
 [CRAZY_DAVE_3317]
-{TIME_150}Y bien, ¿a que esperas?
+{TIME_150}Well, what are you waiting for?
 
 [CRAZY_DAVE_3400]
-{NO_CLICK}Para usar el Botiquin de Nuez tan solo planta una Nuez nueva sobre una danada.
+{NO_CLICK}To use the Nut Kit, just plant a new Nut on a damaged one.
 [CRAZY_DAVE_3500]
-Hey Neighbour! I have just planted 45 wall-nuts on your lawn!
+Hey Neighbor! I have just planted 45 wall-nuts on your lawn!
 [CRAZY_DAVE_3501]
-But  it seems that they attracted some squirrels!
+But it seems that they attracted some squirrels!
 [CRAZY_DAVE_3502]
 {SHAKE}To catch them I also put a Zombie there!!!!{MOUTH_BIG_SMILE}
 [CRAZY_DAVE_3503]
-but it didn't work.Now It's your show time,my neighbour! 
+but it didn't work.Now It's your show time,my neighbor! 
 
 [MENU_BUTTON]
 Menu
 
 [ADVICE_MORE_ZOMBIES]
-¡Se acercan mas zombis!
+More zombies are coming!
 
 [ADVICE_MORE_SCARY_POTS]
-¡Mas jarrones!
-Asalto actual: {STREAK}
+More pots!
+Current round: {STREAK}
 
 [ADVICE_SCARY_POTTER_TUTORIAL]
-¡Dave ha puesto mas jarrones!
-{STREAK} de 5 asaltos superados
+Dave has put out more pots!
+{STREAK} of 5 rounds completed
 
 [ADVICE_3_IN_A_ROW]
-¡Mas jarrones!
-{STREAK} de 3 asaltos superados
+More pots!
+{STREAK} of 3 rounds completed
 
 [LONGEST_STREAK]
-Record de
-asaltos: {STREAK}
+Record number of
+rounds: {STREAK}
 
 [ADVICE_MORE_IZOMBIE]
-¡Muy buena!
-Asalto actual: {STREAK}
+Very good!
+Current round: {STREAK}
 
 [ADVICE_CLICK_ON_SUN]
-¡Haz clic en los soles para recogerlos!
+Click on the suns to collect them!
 
 [ADVICE_GRAVEBUSTERS_ON_GRAVES]
-El Comepiedra solo funciona sobre lapidas.
+The Grave Buster only works on gravestones.
 
 [ADVICE_LILYPAD_ON_WATER]
-El Nenufar solo se planta sobre agua.
+The Lily Pad only grows on water.
 
 [ADVICE_TANGLEKELP_ON_WATER]
-La Zampalga solo se planta sobre agua.
+The Tanglekelp can only be planted on water.
 
 [ADVICE_SEASHROOM_ON_WATER]
-La Marseta solo se planta sobre agua.
+The Seashroom can only be planted on water.
 
 [ADVICE_POTATO_MINE_ON_LILY]
-No puedes plantar Patatapums sobre Nenufares.
+You cannot plant Potato Mines on Water Lilies.
 
 [ADVICE_NOT_PASSED_LINE]
-Lanza desde la izquierda de la linea.
+Launch from the left side of the line.
 
 [ADVICE_I_ZOMBIE_NOT_PASSED_LINE]
-Situa al zombi a la derecha de la linea.
+Place the zombie to the right of the line.
 
 [ADVICE_I_ZOMBIE_LEFT_OF_LINE]
-Situa al Zombi colgao a la izquierda de la linea.
+Place the hanging zombie to the left of the line.
 
 [ADVICE_ONLY_ON_REPEATERS]
-Solo se planta sobre Repetidoras
+Only plants on Repeaters.
 
 [ADVICE_ONLY_ON_MELONPULT]
-Solo se planta sobre Melonpultas
+Only plants on Melonpults.
 
 [ADVICE_ONLY_ON_SUNFLOWER]
-Solo se planta sobre Girasoles
+Only plants on Sunflowers.
 
 [ADVICE_ONLY_ON_SPIKEWEED]
-Solo se planta sobre Pinchohierbas
+Only planted on Spikeweeds
 
 [ADVICE_ONLY_ON_KERNELPULT]
-Solo se planta sobre 2 Lanzamaices
+Only planted on 2 Corn Pults
 
 [ADVICE_ONLY_ON_MAGNETSHROOM]
-Solo se planta sobre Magnetosetas
+Only planted on Magnet Shrooms
 
 [ADVICE_ONLY_ON_FUMESHROOM]
-Solo se planta sobre Humosetas
+Only planted on Fume Shrooms
 
 [ADVICE_ONLY_ON_LILYPAD]
-Solo se planta sobre Nenufares
+Only plant on Lily Pads.
 
 [ADVICE_WRONG_ART_TYPE]
-Solo puedes plantar semillas de {SEED} ahi.
+You can only plant {SEED} seeds there.
 
 [ADVICE_PLANT_NEED_POT1]
-Solo puedes plantar en Macetas.
+You can only plant in Pots.
 
 [ADVICE_PLANT_NEED_POT2]
-Pon una Maceta antes.
+Place a Pot first.
 
 [ADVICE_PLANT_NOT_ON_GRAVE]
-No puedes plantar sobre lapidas.
+You cannot plant on gravestones.
 
 [ADVICE_PLANT_NOT_ON_CRATER]
-No puedes plantar en crateres.
+You cannot plant in craters.
 
 [ADVICE_CANT_PLANT_THERE]
-No puedes plantar ahi.
+You cannot plant there.
 
 [ADVICE_PLANT_NOT_ON_WATER]
-Planta un Nenufar antes.
+Plant a Water Lily first.
 
 [ADVICE_PLANTING_NEED_SLEEPING]
-Los Granos de cafe solo se plantan sobre setas durmientes.
+Coffee Beans can only be planted on sleeping mushrooms.
 
 [ADVICE_PLANTING_NEEDS_GROUND]
-La Pinchohierba solo se planta en la tierra.
+Thistles can only be planted on the ground.
 
 [ADVICE_MORE_SUNFLOWERS]
-Cuantos mas Girasoles tengas,
-¡mas deprisa creceran tus plantas!
+The more Sunflowers you have,
+the faster your plants will grow!
 
 [ADVICE_SHOVEL_REFRESH]
-La Pala necesita un momento para volver a ser usada.
+The Shovel needs a moment to be ready for use again.
 
 [ADVICE_HUGE_WAVE]
-¡SE APROXIMA UNA GRAN HORDA DE ZOMBIS!
+A HUGE HORDE OF ZOMBIES IS APPROACHING!
 
 [ADVICE_CLICK_PEASHOOTER]
-¡Haz clic en el Lanzaguisantes para plantar otro!
+Click on the Peashooter to plant another one!
 
 [ADVICE_PLANT_SUNFLOWER1]
-¡Los Girasoles son plantas importantisimas!
+Sunflowers are very important plants!
 
 [ADVICE_PLANT_SUNFLOWER2]
-¡Prueba a plantar al menos 3!
+Try planting at least 3!
 
 [ADVICE_PLANT_SUNFLOWER3]
-¡Plantar 3 Girasoles incrementa tus posibilidades
-de sobrevivir a un ataque de zombis!
+Planting 3 Sunflowers increases your chances
+of surviving a zombie attack!
 
 [ADVICE_PLANT_SUNFLOWER4]
-¡Intenta plantar al menos 3 Girasoles!
+Try planting at least 3 Sunflowers!
 
 [ADVICE_PLANT_SUNFLOWER5]
-¡Plantar 3 Girasoles incrementa tus posibilidades
-de sobrevivir a un ataque de zombis!
+Planting 3 Sunflowers increases your chances
+of surviving a zombie attack!
 
 [ADVICE_CLICK_SEED_PACKET]
-¡Haz clic en un sobre de semillas para cogerlo!
+Click on a seed packet to pick it up!
 
 [ADVICE_ENOUGH_SUN]
-¡Perfecto! ¡Has conseguido
-suficientes para otra planta!
+Perfect! You've collected
+enough for another plant!
 
 [ADVICE_CLICK_ON_GRASS]
-¡Haz clic en el cesped para plantar la semilla!
+Click on the grass to plant the seed!
 
 [ADVICE_PLANTED_PEASHOOTER]
-¡Bien hecho!
+Well done!
 
 [ADVICE_ZOMBIE_ONSLAUGHT]
-¡Que no lleguen los zombis a tu casa!
+Don't let the zombies reach your house!
 
 [ADVICE_CLICK_SHOVEL]
-Haz clic en la Pala para cogerla.
+Click on the shovel to pick it up.
 
 [ADVICE_CLICK_PLANT]
-¡Haz clic en la planta que quieras quitar!
+Click on the plant you want to remove!
 
 [ADVICE_KEEP_DIGGING]
-¡Sigue asi hasta que no quede ninguna!
+Keep going until there are none left!
 
 [ADVICE_SURVIVE_FLAGS]
-¿Puedes sobrevivir a {FLAGS} banderas?
+Can you survive {FLAGS} flags?
 
 [ADVICE_SURVIVE_ENDLESS]
-¿A cuantas banderas podras sobrevivir?
+How many flags can you survive?
 
 [ADVICE_FILL_IN_WALLNUTS]
-¡Llena los espacios marcados con Nueces!
+Fill the marked spaces with Wallnuts!
 
 [ADVICE_FILL_IN_SPACES]
-¡Llena los espacios marcados!
+Fill the marked spaces!
 
 [ADVICE_FILL_IN_STARFRUIT]
-¡Llena los espacios marcados con Frustrellas!
+Fill the marked spaces with Starfruits!
 
 [ADVICE_BEGHOULED_DRAG_TO_MATCH_3]
-Haz clic y arrastra plantas para combinar 3.
+Click and drag plants to match 3.
 
 [ADVICE_BEGHOULED_TWIST_TO_MATCH_3]
-Haz clic para girar plantas y combinar 3.
+Click to rotate plants and match 3.
 
 [ADVICE_BEGHOULED_MATCH_3]
-Haz {SCORE} combinaciones para pasar de nivel.
+Make {SCORE} matches to clear the level.
 
 [ADVICE_BEGHOULED_NO_MOVES]
-¡No puedes mover!
+No moves left!
 
 [ADVICE_BEGHOULED_USE_CRATER_1]
-¡Los zombis se han comido una planta!
+The zombies have eaten a plant!
 
 [ADVICE_BEGHOULED_USE_CRATER_2]
-¡Gasta sol para rellenar el crater!
+Spend sun to fill the crater!
 
 [ADVICE_BEGHOULED_SAVE_SUN]
-¡Ahorra sol para mejorar tus plantas!
+Save sun to upgrade your plants!
 
 [ADVICE_SLOT_MACHINE_PULL]
-¡Dale a la palanca!
+Pull the lever!
 
 [ADVICE_SLOT_MACHINE_SPIN_AGAIN]
-¡Dale otra vez!
+Pull again!
 
 [ADVICE_SLOT_MACHINE_COLLECT_SUN]
-Consigue {SCORE} soles.
+Collect {SCORE} suns.
 
 [SLOT_MACHINE_PULL_TOOLTIP]
-Cada tirada son 25 soles.
+Each spin costs 25 suns.
 
 [ADVICE_SLOT_MACHINE_3_OF_A_KIND]
-¡Trio! ¡Tres plantas gratis!
+Three of a kind! Three free plants!
 
 [ADVICE_SLOT_MACHINE_2_OF_A_KIND]
-¡Pareja! ¡Planta gratis!
+Two of a kind! One free plant!
 
 [ADVICE_SLOT_MACHINE_2_SUNS]
-¡Pareja! ¡Bonif. de sol!
+Two of a kind! Sun bonus!
 
 [ADVICE_SLOT_MACHINE_2_DIAMONDS]
-¡Pareja! ¡Diamantes!
+Pair! Diamonds!
 
 [ADVICE_SLOT_MACHINE_SUN_JACKPOT]
-¡Bote de sol!
+Sun jackpot!
 
 [ADVICE_SLOT_MACHINE_DIAMOND_JACKPOT]
-¡Bote de diamante!
+Diamond jackpot!
 
 [SLOT_MACHINE_SUN_TOOLTIP]
-Sol
+Sun
 
 [SLOT_MACHINE_DIAMOND_TOOLTIP]
-Diamante
+Diamond
 
 [ADVICE_BUNGEES_INCOMING]
-¡Colgaos cayendo!
+Hang in there!
 
 [ADVICE_CLICKED_ON_SUN]
-¡Sigue acumulando sol!
-¡Lo necesitaras para plantar mas!
+Keep collecting sun!
+You'll need it to plant more!
 
 [ADVICE_CLICKED_ON_COIN]
-¡Ahorra dinero para comprarte lo que te mole!
+Save money to buy whatever you want!
 
 [ADVICE_SEED_REFRESH]
-Las semillas necesitan tiempo para replantarse.
+Seeds need time to replant.
 
 [ADVICE_CANT_AFFORD_PLANT]
-¡Necesitas mas sol para eso!
+You need more sun for that!
 
 [ADVICE_PLANT_NEEDS_REPEATER]
-¡Planta antes una Repetidora!
+Plant a Repeater first!
 
 [ADVICE_PLANT_NEEDS_MELONPULT]
-¡Planta antes una Melonpulta congelada!
+Plant a Frozen Melonpult first!
 
 [ADVICE_PLANT_NEEDS_SUNFLOWER]
-¡Planta antes un Girasol!
+Plant a Sunflower first!
 
 [ADVICE_PLANT_NEEDS_SPIKEWEED]
-¡Planta antes una Pinchohierba!
+Plant a Spikeweed first!
 
 [ADVICE_PLANT_NEEDS_KERNELPULT]
-¡Planta antes 2 Lanzamaices!
+Plant 2 Kernelpults first!
 
 [ADVICE_PLANT_NEEDS_MAGNETSHROOM]
-¡Planta antes una Magnetoseta!
+Plant a Magnetshroom first!
 
 [ADVICE_PLANT_NEEDS_FUMESHROOM]
-¡Planta antes una Humoseta!
+Plant a Fumeshroom first!
 
 [ADVICE_PLANT_NEEDS_LILYPAD]
-¡Planta antes un Nenufar!
+Plant a Lilypad first!
 
 [PLAYERS_HOUSE]
-Casa de {PLAYER}
+House of {PLAYER}
 
 [PLAYERS_BACKYARD]
-Patio de {PLAYER}
+{PLAYER}'s backyard
 
 [PLAYERS_ROOF]
-¡Tejado de {PLAYER}!
+{PLAYER}'s roof!
 
 [ADVICE_PORTAL_RELOCATING]
-Portales trasladandose...
+Portals relocating...
 
 [ZEN_SELL_HEADER]
-¿Seguro?
+Are you sure?
 
 [ZEN_SELL_LINES]
-¿Vender la planta a Crazy Dave?
+Sell the plant to Crazy Dave?
 
 [DIALOG_WARNING]
-Atencion
+Attention
 
 [DIALOG_ZEN_GARDEN_FULL]
-¡Oh, no! ¡Tu jardin esta lleno!
+Oh no! Your garden is full!
 
 [DIALOG_BUTTON_OK]
 
 
 [DIALOG_BUTTON_CANCEL]
-Cancelar
+Cancel
 
 [DIALOG_BUTTON_YES]
-Si
+Yes
 
 [DIALOG_BUTTON_NO]
 NO
 
 [NEW_PLANT]
-¡TIENES UNA NUEVA PLANTA!
+YOU HAVE A NEW PLANT!
 
 [NEXT_LEVEL_BUTTON]
-¡SIGUIENTE NIVEL!
+NEXT LEVEL!
 
 [CONTINUE_BUTTON]
-Continuar
+Continue
 
 [VIEW_ALMANAC_BUTTON]
-Ver almanaque
+View Almanac
 
 [MAIN_MENU_BUTTON]
 Menu
 
 [AWARD_MAIN_MENU_BUTTON]
-MENU PRINC.
+MAIN MENU
 
 [REPICK_BUTTON]
-Reelegir
+Re-select
 
 [SHOVEL]
-Pala
+Shovel
 
 [GOT_SHOVEL]
-¡Tiene una Pala!
+You have a shovel!
 
 [SHOVEL_DESCRIPTION]
-Quita una planta
-para poder plantar
-otra planta.
+Remove a plant
+so you can plant
+another plant.
 
 [FOUND_NOTE]
-Hallas una nota:
+You find a note:
 
 [SUBURBAN_ALMANAC]
-Almanaque suburbano
+Suburban Almanac
 
 [FOUND_SUBURBAN_ALMANAC]
-¡Has encontrado un almanaque!
+You found an almanac!
 
 [SUBURBAN_ALMANAC_DESCRIPTION]
-Registra todas las plantas y zombis que hayas visto.
+It lists all the plants and zombies you've seen.
 
 [KEYS]
-Llaves del coche de Dave
+Dave's Car Keys
 
 [FOUND_KEYS]
-¡Son las llaves del coche de Dave!
+They're Dave's car keys!
 
 [KEYS_DESCRIPTION]
-¡Ya puedes ir a
-la tienda de Crazy Dave!
+Now you can go to
+Crazy Dave's shop!
 
 [VASE]
-Jarron misterioso
+Mysterious Vase
 
 [FOUND_VASE]
-¡Hallas un jarron misterioso!
+You find a mysterious vase!
 
 [VASE_DESCRIPTION]
-¡Ya puedes jugar al
-modo Rompejarrones!
+Now you can play
+Vase Smashing mode!
 
 [WATERING_CAN]
-Regadera
+Watering can
 
 [FOUND_WATERING_CAN]
-¡Encuentras una Regadera!
+You find a watering can!
 
 [WATERING_CAN_DESCRIPTION]
-¡Ya puedes jugar al
-modo Jardin Zen!
+Now you can play
+Zen Garden mode!
 
 [TACO]
 Taco
 
 [FOUND_TACO]
-¡Hallas un taco!
+You find a taco!
 
 [TACO_DESCRIPTION]
-¿Que vas a hacer con un taco?
+What are you going to do with a taco?
 
 [WATERING_CAN_TOOLTIP]
-regar una planta
+water a plant
 
 [FERTILIZER_TOOLTIP]
-abonar una planta
+fertilize a plant
 
 [TREE_FERTILIZER_TOOLTIP]
-abonar arbol
+fertilize a tree
 
 [BUG_SPRAY_TOOLTIP]
-fumigar
+Spray
 
 [PHONOGRAPH_TOOLTIP]
-poner musica para plantas
+Play music for plants
 
 [CHOCOLATE_TOOLTIP]
-chocolate
+Chocolate
 
 [GLOVE_TOOLTIP]
-reubicar planta
+Relocate plant
 
 [MONEY_SIGN_TOOLTIP]
-vender planta
+Sell plant
 
 [WHEELBARROW_TOOLTIP]
-lleva plantas para trasladar
+carry plants to move
 
 [NEXT_GARDEN_TOOLTIP]
-visitar otro jardin
+visit another garden
 
 [SHOVEL_TOOLTIP]
-quitar planta
+remove plant
 
 [BEGHOULED_REPEATER_UPGRADE_TOOLTIP]
-Mejorar tus Lanzaguisantes a Repetidoras
+Upgrade your Peashooters to Repeaters
 
 [BEGHOULED_FUMESHROOM_UPGRADE_TOOLTIP]
-Mejorar tus Setas deseporadas a Humosetas
+Upgrade your Desperate Mushrooms to Fumeshrooms
 
 [BEGHOULED_TALLNUT_UPGRADE_TOOLTIP]
-Mejorar tus Nueces a Nueces cascara-rabias
+Upgrade your Nuts to Rage Nuts
 
 [BEGHOULED_SHUFFLE_TOOLTIP]
-Mezclar plantas
+Shuffle plants
 
 [BEGHOULED_CRATER_TOOLTIP]
-Rellenar crater
+Fill crater
 
 [BEGHOULED_SEED_ALREADY_PURCHASED]
-Adquirido
+Already purchased
 
 [BEGHOULED_NO_CRATERS]
-No hay crateres
+No craters
 
 [FREE_PLANTING_CHEAT]
-Truco: Plantar Gratis
+Cheat: Plant for free
 
 [WAITING_FOR_SEED]
-recargando...
+Reloading...
 
 [NOT_ENOUGH_SUN]
-sol insuficiente
+Not enough sun
 
 [REQUIRES_REPEATER]
-requiere Repetidora
+Requires Repeater
 
 [REQUIRES_MELONPULT]
-requiere Melonpulta
+Requires Melonpult
 
 [REQUIRES_SUNFLOWER]
-requiere Girasol
+Requires Sunflower
 
 [REQUIRES_SPIKEWEED]
-requiere Pinchohierba
+Requires Spikeweed
 
 [REQUIRES_KERNELPULTS]
-requiere 2 Lanzamaices
+Requires 2 Kernelpults
 
 [REQUIRES_MAGNETSHROOM]
-requiere Magnetoseta
+Requires Magnetshroom
 
 [REQUIRES_FUMESHROOM]
-requiere Humoseta
+Requires Fumeshroom
 
 [REQUIRES_LILY_PAD]
-requiere Nenufar
+requires Lily Pad
 
 [WAITING_TO_REFRESH]
-esperando para refrescar
+waiting to refresh
 
 [CLICK_TO_VIEW]
-clic para ver
+click to view
 
 [LETS_ROCK_BUTTON]
-Comenzar
+Start
 
 [VIEW_LAWN]
-VER JARDIN
+VIEW LAWN
 
 [ALMANAC_BUTTON]
-ALMANAQUE
+ALMANAC
 
 [SHOP_BUTTON]
-TIENDA
+SHOP
 
 [CLOSE_BUTTON]
-CERRAR
+CLOSE
 
 [ALMANAC_INDEX]
-ALMANAQUE (INDICE)
+ALMANAC (INDEX)
 
 [VIEW_PLANTS]
-Ver plantas
+View plants
 
 [VIEW_ZOMBIES]
-Ver zombis
+View zombies
 
 [BACK_TO_MENU]
 Menu
 
 [ROLL_CREDITS]
-¡Esos creditos!
+Those credits!
 
 [PAGE_X]
-PAG. {PAGE}
+PAGE {PAGE}
 
 [RESTART_BUTTON]
-REINICIAR
+RESTART
 
 [NEW_GAME_BUTTON]
-Nueva partida
+New game
 
 [LEAVE_BUTTON]
-ABANDONAR
+LEAVE
 
 [QUIT_BUTTON]
-Abandonar
+Quit
 
 [QUIT_MESSAGE]
-¿Seguro que quieres salir
-del juego?
+Are you sure you want to quit
+the game?
 
 [QUIT_HEADER]
-Abandonar
+Quit
 
 [AWW_YEAH_BUTTON]
-¡Vaya que si quiero!
+Hell yeah!
 
 [NAH_BUTTON]
-¡Pues va a ser que no!
+No way!
 
 [MORE_SEEDS_HEADER]
-¿Mas semillas?
+More seeds?
 
 [MORE_SEEDS_BODY]
-¿Te gustaria poder plantar mas tipos de semillas?
+Would you like to be able to plant more types of seeds?
 
 [STORE_NEXT_LEVEL_BUTTON]
-SIGUIENTE NIVEL
+NEXT LEVEL
 
 [STORE_MAIN_MENU_BUTTON]
-MENU PRINC.
+MAIN MENU
 
 [STORE_BACK_TO_GAME]
-ATRAS
+BACK
 
 [STORE_BACK_TO_ZEN]
-ATRAS
+BACK
 
 [SEED_CHOOSER_UPGRADE_WARNING]
-¿Seguro que quieres usar {UPGRADE_TO} sin {UPGRADE_FROM}?
+Are you sure you want to use {UPGRADE_TO} without {UPGRADE_FROM}?
 
 [SEED_CHOOSER_SEEING_STARS_WARNING]
-¿Seguro que quieres comenzar el nivel sin Frustrellas?
+Are you sure you want to start the level without Frustrellas?
 
 [SEED_CHOOSER_LILY_WARNING]
-¿Seguro que quieres comenzar el nivel sin Nenufares?
+Are you sure you want to start the level without Water Lilies?
 
 [SEED_CHOOSER_ART_WALLNUT_WARNING]
-¿Seguro que quieres comenzar el nivel sin Nueces?
+Are you sure you want to start the level without Wallnuts?
 
 [SEED_CHOOSER_ART_2_WARNING]
-¿Seguro que quieres comenzar el nivel sin Frustrellas, Paraplantas ni Nueces?
+Are you sure you want to start the level without Frustrellas, Paraplantas, or Wallnuts?
 
 [SEED_CHOOSER_FLYER_WARNING]
-No has seleccionado ninguna planta que ataque a los globos. ¿Seguro que quieres continuar?
+You haven't selected any plants that attack balloons. Are you sure you want to continue?
 
 [SEED_CHOOSER_SUN_WARNING]
-No has seleccionado ninguna planta productora de sol. ¿Seguro que quieres continuar?
+You haven't selected any sun-producing plants. Are you sure you want to continue?
 
 [SEED_CHOOSER_NIGHT_SUN_WARNING]
-Es de noche y ahora las plantas productoras de sol son imprescindibles. ¿Seguro que quieres continuar?
+It's nighttime, and sun-producing plants are now essential. Are you sure you want to continue?
 
 [SEED_CHOOSER_PUFFSHROOM_WARNING]
-Este nivel sera muy dificil sin Setas desesporadas. ¿Seguro que quieres continuar sin ellas?
+This level will be very difficult without Puffshrooms. Are you sure you want to continue without them?
 
 [SEED_CHOOSER_POOL_WARNING]
-¿Seguro que quieres empezar el nivel sin plantas acuaticas?
+Are you sure you want to start the level without aquatic plants?
 
 [SEED_CHOOSER_ROOF_WARNING]
-¿Seguro que quieres empezar el nivel sin Macetas?
+Are you sure you want to start the level without pots?
 
 [ADVICE_ALMOST_THERE]
-¡Ya casi!
+Almost there!
 
 [ADVICE_BEGHOULED_ALMOST_THERE]
-¡5 combinaciones mas!
+5 more combos!
 
 [ZOMBIQUARIUM_SNORKEL_TOOLTIP]
-Compra Zombi buzo
+Buy Zombie Diver
 
 [ZOMBIQUARIUM_TROPHY_TOOLTIP]
-Compra Trofeo
+Buy Trophy
 
 [ADVICE_ZOMBIQUARIUM_CLICK_TO_FEED]
-Haz clic en el acuario para alimentar a los zombis.
+Click on the aquarium to feed the zombies.
 
 [ADVICE_ZOMBIQUARIUM_COLLECT_SUN]
-Consigue {SCORE} soles.
+Collect {SCORE} suns.
 
 [ZOMBIQUARIUM_DEATH_MESSAGE]
-¡Todas tus mascotas zombis han fallecido!
+All your zombie pets have died!
 
 [I_ZOMBIE_DEATH_MESSAGE]
-¡Perdiste todos tus zombis!
+You lost all your zombies!
 
 [ADVICE_ZOMBIQUARIUM_CLICK_TROPHY]
-¡Haz clic en el trofeo para completar el nivel!
+Click on the trophy to complete the level!
 
 [ADVICE_ZOMBIQUARIUM_BUY_SNORKEL]
-¡Haz clic para comprar mas Zombis buzos!
+Click to buy more zombie divers!
 
 [TRY_AGAIN]
-Vuelve a intentarlo
+Try again.
 
 [ONE_FLAG]
-1 bandera
+1 flag
 
 [COUNT_FLAGS]
-{COUNT} banderas
+{COUNT} flags
 
 [SURVIVAL_DEATH_MESSAGE]
-Has sobrevivido a {FLAGS}
-pero aun asi
-¡¡TE HAN DEVORADO LOS SESOS!!
+You survived {FLAGS}
+but still
+YOUR BRAINS WERE EATEN!!
 
 [ENDLESS_PUZZLE_DEATH_MESSAGE]
-Has aguantado {STREAK} asaltos.
+You endured {STREAK} assaults.
 
 [ENDLESS_STREAK]
-Asalto: {STREAK}
+Round: {STREAK}
 
 [LEVEL]
-Nivel
+Level
 
 [GAME_OVER]
-FIN DE PARTIDA
+GAME OVER
 
 [PICK_AREA]
-Superviviencia
+Survival
 
 [PICK_CHALLENGE]
-Minijuegos
+Minigames
 
 [ONE_MORE_CHALLENGE_TOOLTIP]
-Completa 1 minijuego mas para desbloquear.
+Complete 1 more minigame to unlock.
 
 [ONE_MORE_SCARY_POTTER_TOOLTIP]
-Gana 1 trofeo Rompejarrones para desbloquear.
+Win 1 Scarecrow trophy to unlock.
 
 [ONE_MORE_IZOMBIE_TOOLTIP]
-Gana 1 trofeo Yo, Zombi para desbloquear.
+Win 1 I, Zombie trophy to unlock.
 
 [ONE_MORE_SURVIVAL_TOOLTIP]
-1 trofeo de Supervivencia mas para desbloquear
+1 more Survival trophy to unlock
 
 [10_SURVIVAL_TOOLTIP]
-10 trofeos de Supervivencia para desbloquear
+10 Survival trophies to unlock
 
 [FINISH_ADVENTURE_TOOLTIP]
-Termina el modo Aventura para desbloquear.
+Finish Adventure mode to unlock.
 
 [SURVIVAL_DAY_NORMAL]
-Supervivencia: Dia
+Survival: Day
 
 [SURVIVAL_NIGHT_NORMAL]
-Supervivencia: Noche
+Survival: Night
 
 [SURVIVAL_POOL_NORMAL]
-Supervivencia: Piscina
+Survival: Pool
 
 [SURVIVAL_FOG_NORMAL]
-Supervivencia: Niebla
+Survival: Fog
 
 [SURVIVAL_ROOF_NORMAL]
-Supervivencia: Tejado
+Survival: Roof
 
 [SURVIVAL_DAY_HARD]
-Supervivencia: Dia (dificil)
+Survival: Day (hard)
 
 [SURVIVAL_NIGHT_HARD]
-Supervivencia: Noche (dificil)
+Survival: Night (hard)
 
 [SURVIVAL_POOL_HARD]
-Supervivencia: Piscina (dificil)
+Survival: Pool (hard)
 
 [SURVIVAL_FOG_HARD]
-Supervivencia: Niebla (dificil)
+Survival: Fog (hard)
 
 [SURVIVAL_ROOF_HARD]
-Supervivencia: Tejado (dificil)
+Survival: Roof (difficult)
 
 [SURVIVAL_DAY_ENDLESS]
-Supervivencia: Dia (dificil)
+Survival: Day (difficult)
 
 [SURVIVAL_NIGHT_ENDLESS]
-Supervivencia: Noche (dificil)
+Survival: Night (difficult)
 
 [SURVIVAL_POOL_ENDLESS]
-Supervivencia: Infinito
+Survival: Endless
 
 [SURVIVAL_FOG_ENDLESS]
-Supervivencia: Niebla (infinito)
+Survival: Fog (endless)
 
 [SURVIVAL_ROOF_ENDLESS]
-Supervivencia: Tejado (infinito)
+Survival: Roof (endless)
 
 [WAR_AND_PEAS]
-Vegezombis
+Vegezombies
 
 [SEEING_STARS]
-Viendo las estrellas
+Seeing the stars
 
 [CAN_YOU_DIG_IT]
-Estas 'acavado'
+You're ‘finished’
 
 [SCARY_POTTER_1]
-Rompejarrones
+Break the vases
 
 [SCARY_POTTER_2]
-A tu izquierda
+On your left
 
 [SCARY_POTTER_3]
-Tercer jarron
+Third vase
 
 [SCARY_POTTER_4]
-Reaccion en cadena
+Chain reaction
 
 [SCARY_POTTER_5]
-M' de Metal
+Metal M
 
 [SCARY_POTTER_6]
 Scary Potter
 
 [SCARY_POTTER_7]
-El baile de San Vito
+St. Vitus' dance
 
 [SCARY_POTTER_8]
-Otra reaccion en cadena
+Another chain reaction
 
 [SCARY_POTTER_9]
-El 'jarrozon partio'
+The ‘broken vase’
 
 [SCARY_POTTER_10]
-Rompejarrones caradura
+Cheeky vase breaker
 
 [SCARY_POTTER_ENDLESS]
-Rompejarrones infinito
+Infinite Jar Breaker
 
 [SCARY_POTTER]
 Puzzle
@@ -2289,152 +2283,152 @@ Puzzle
 Portal Combat
 
 [BEGHOULED]
-Macabra
+Macabre
 
 [BEGHOULED_TWIST]
-Giro macrabra
+Macabre Twist
 
 [WALL_NUT_BOWLING]
-La bolera
+The Bowling Alley
 
 [GRAVE_DANGER]
-Lapidas rapidas
+Quick stones
 
 [I_ZOMBIE]
-Yo, Zombi
+Me, Zombie
 
 [WHACK_A_ZOMBIE]
-Mola 'mazo'
+It's cool
 
 [SLOT_MACHINE]
-Tragaperras
+Slot machine
 
 [ZOMBIQUARIUM]
 Zombiquarium
 
 [LITTLE_TROUBLE]
-Pequenos pero matones
+Small but tough
 
 [BOBSLED_BONANZA]
-Carreras de bobsleigh
+Bobsled racing
 
-[ITS_RAINING_SEEDS	]
-Semillas caidas
+[ITS_RAINING_SEEDS    ]
+Falling seeds
 
 [INVISIGHOUL]
-Invisibles
+Invisible
 
 [DARK_STORMY_NIGHT]
-Noche de tormenta
+Stormy night
 
 [AIR_RAID]
-Bombardeo
+Bombing
 
 [COLUMN_AS_YOU_SEE_EM]
-¡Formen! ¡Arr!
+Fall in! Ahoy!
 
 [BUNGEE_BLITZ]
-Colgaos' de remate
+Hanging by a thread
 
 [POGO_PARTY]
-Saltimbanquis
+Acrobats
 
 [FINAL_BOSS]
-La venganza del Dr. Zombi
+Dr. Zombie's revenge
 
 [LAST_STAND]
-El ultimo batallon
+The last stand
 
 [ART_CHALLENGE_WALL_NUT]
-Arte de nueces
+Nutty Art
 
 [SUNNY_DAY]
-Dia soleado
+Sunny Day
 
 [UNSODDED]
 Unsodded
 
 [BIG_TIME]
-Momentazo
+Big Moment
 
 [ART_CHALLENGE_SUNFLOWER]
-Reto artistico del Girasol
+Sunflower Art Challenge
 
 [ZOMBIES_ON_SPEED]
-Zombis 'zumbaos'
+Zombies on Speed
 
 [ICE_LEVEL]
-Nivel de hielo
+Ice Level
 
 [ZEN_GARDEN]
-Jardin Zen
+Zen Garden
 
 [HIGH_GRAVITY]
-Alta gravedad
+High Gravity
 
 [WAR_AND_PEAS_2]
-Vegezombis 2
+Vegezombies 2
 
 [I_ZOMBIE_TOO]
-Yo, Zombi 2
+I, Zombie 2
 
 [WALL_NUT_BOWLING_EXTREME]
-La bolera 2
+Bowling 2
 
 [BEAT_GAME_MESSAGE1]
-¡Has ganado un Girasol de oro!
+You've won a Golden Sunflower!
 
 [BEAT_GAME_MESSAGE2]
-¡Vaya! ¡Has ganado todos los trofeos! ¡Superate ahora en los juegos infinitos! ¡Y no te olvides de tu Jardin Zen!
+Wow! You've won all the trophies! Now try your hand at the endless games! And don't forget your Zen Garden!
 
 [GOLD_SUNFLOWER_TROPHY]
-Trofeo Girasol de oro
+Golden Sunflower Trophy
 
 [SILVER_SUNFLOWER_TROPHY]
-Trofeo Girasol de plata
+Silver Sunflower Trophy
 
 [WIN_MESSAGE1]
-¡Has vencido al zombi final!
+You defeated the final zombie!
 
 [WIN_MESSAGE2]
-¡Felicidades! ¡Has repelido todos los ataques de los zombis! Tu jardin esta a salvo... ¡de momento!
+Congratulations! You've repelled all the zombie attacks! Your garden is safe... for now!
 
 [GOT_TROPHY]
-¡Has ganado un trofeo!
+You've won a trophy!
 
 [TROPHY]
-Trofeo
+Trophy
 
 [NOW_YOU_CAN_PLAY]
-¡Ya puedes jugar a
+Now you can play
 {MODE}!
 
 [CHALLENGE_UNLOCKED]
-¡Has desbloqueado un minijuego!
+You've unlocked a mini-game!
 
 [GET_MORE_TROPHIES]
-¡Sigue coleccionando trofeos!
+Keep collecting trophies!
 
 [SUN]
-Sol
+Sun
 
 [MATCHES]
-Combinaciones
+Combinations
 
 [MODE_LOCKED]
-¡Bloqueado!
+Locked!
 
 [SURVIVAL_LOCKED_MESSAGE]
-Juega en Aventura para
-desbloquear Supervivencia.
+Play Adventure to
+unlock Survival.
 
 [MINIGAME_LOCKED_MESSAGE]
-Juega en Aventura para
-desbloquear Minijuegos.
+Play Adventure to
+unlock Minigames.
 
 [PUZZLE_LOCKED_MESSAGE]
-Juega en Aventura para
-desbloquear Puzzles.
+Play Adventure to
+unlock Puzzles.
 
 [CLICK_TO_START]
 
@@ -2443,526 +2437,525 @@ desbloquear Puzzles.
 
 
 [CREDITS]
-Creditos
+Credits
 
 [BACK_TO_GAME]
-Continuar
+Continue
 
 [RESTART_LEVEL]
-Reiniciar nivel
+Restart level
 
 [ADVICE_ZEN_GARDEN_PICK_UP_WATER]
-Coge la Regadera haciendo clic en ella.
+Pick up the Watering Can by clicking on it.
 
 [ADVICE_ZEN_GARDEN_WATER_PLANT]
-Haz clic en una planta para regarla.
+Click on a plant to water it.
 
 [ADVICE_ZEN_GARDEN_KEEP_WATERING]
-¡Riega a tus plantas siempre que te pidan agua!
+Water your plants whenever they ask for water!
 
 [ADVICE_ZEN_GARDEN_VISIT_STORE]
-¡Las plantas requieren abonos para crecer!
-Ve a la tienda y compra algo de abono.
+Plants need fertilizer to grow!
+Go to the store and buy some fertilizer.
 
 [ADVICE_ZEN_GARDEN_FERTILIZE]
-¡Abonalas y observa como crecen!
+Fertilize them and watch them grow!
 
 [ADVICE_ZEN_GARDEN_NEED_MORE_FERTILIZER]
-¡Tienes que abonarlas a las dos!
-¡Toma, un poco mas de abono!
+You have to fertilize both of them!
+Here, some more fertilizer!
 
 [ADVICE_ZEN_GARDEN_CONTINUE_ADVENTURE]
-De momento tendras que esperar.
-Vuelve cuando tus plantas necesiten mas abono.
+You'll have to wait for now.
+Come back when your plants need more fertilizer.
 
 [CHOOSE_SEED_TO_COPY]
-Escoge una Semilla
+Choose a Seed
 
 [NOT_ALLOWED_ON_THIS_LEVEL]
-No disponible en este nivel
+Not available on this level.
 
 [FULL_VERSION_ONLY]
-Solo version completa
+Full version only.
 
 [GET_FULL_VERSION_BODY]
-¡Obten el juego completo
-para usar esta superplanta!
+Get the full game
+to use this super plant!
 
 [GET_FULL_VERSION_TITLE]
-Solo version completa
+Full version only.
 
 [BUY_PVZ_TITLE]
-Obten version completa
+Get the full version.
 
 [BUY_PVZ_BODY]
-¿Quieres adquirir la version completa?
+Want to purchase the full version?
 
 [GET_FULL_VERSION_YES_BUTTON]
-Obten version completa
+Get full version
 
 [GET_FULL_VERSION_NO_BUTTON]
-Tal vez luego
+Maybe later
 
 [FULL_VERSION_TO_BUY]
-¡Este objeto solo esta disponible
-en la version completa!
+This item is only available
+in the full version!
 
 [CRAZY_DAVE_WANTS]
-Crazy Dave eligio esto
+Crazy Dave chose this
 
 [NOCTURNAL_WARNING]
-Nocturna: duerme de dia.
+Nocturnal: sleeps during the day.
 
 [NOT_RECOMMENDED_FOR_LEVEL]
-No recomendado para el nivel
+Not recommended for this level
 
 [CHOOSE_YOUR_PLANTS]
-ELIGE TUS PLANTAS
+CHOOSE YOUR PLANTS
 
 [ADVICE_USE_SHOVEL_ON_POTS]
-¡Haz clic en un jarron para ver que hay dentro!
+Click on a pot to see what's inside!
 
 [ADVICE_DESTROY_POTS_TO_FINISH_LEVEL]
-¡Destruye todos los zombis y jarrones del nivel!
+Destroy all zombies and pots in the level!
 
 [SUBURBAN_ALMANAC_INDEX]
-Almanaque suburbano (Indice)
+Suburban Almanac (Index)
 
 [SUBURBAN_ALMANAC_PLANTS]
-Almanaque suburbano (Plantas)
+Suburban Almanac (Plants)
 
 [SUBURBAN_ALMANAC_ZOMBIES]
-Almanaque suburbano (Zombis)
+Suburban Almanac (Zombies)
 
 [STORE_PAGE]
-Pagina {PAGE} de {NUM_PAGES}
+Page {PAGE} of {NUM_PAGES}
 
 [STORE_UPGRADE_SLOTS]
 {SLOTS}
-espac.
+slots.
 
 [ADVICE_I_ZOMBIE_EAT_ALL_BRAINS]
-¡Comete todos los cerebros para pasar de nivel!
+Eat all the brains to advance to the next level!
 
 [ADVICE_I_ZOMBIE_PLANTS_NOT_REAL]
-No te alarmes, que
-las plantas son falsas.
+Don't be alarmed,
+the plants are fake.
 
 [SQUIRRELS]
-Ardillas
+Squirrels
 
 [ADVICE_SQUIRRELS_ONE_LEFT]
-¡{COUNT} ardilla mas y ya!
+One more squirrel to go!
 
 [ADVICE_SQUIRRELS_LEFT]
-¡{COUNT} ardillas para acabar!
+Squirrels left to finish!
 
 [ADVICE_SQUIRREL_ZOMBIE]
-¡Oh, no! ¡Encuentra las ardillas antes
-de que los zombis lleguen a tu casa!
+Oh no! Find the squirrels before
+the zombies reach your house!
 
 [BRAINS]
-Cerebros
+Brains
 
 [COST]
-Precio
+Price
 
 [WAIT_TIME]
-Recarga
+Reload
 
 [WAIT_TIME_SHORT]
-rapida
+Fast
 
 [WAIT_TIME_LONG]
-lenta
+Slow
 
 [WAIT_TIME_VERY_LONG]
-muy lenta
+Very slow
 
 [ADVICE_PEASHOOTER_DIED]
-¡Uno de tus Lanzaguisantes perecio!
-¡Prueba a plantarlos mas a la izquierda!
+One of your Peashooters has perished!
+Try planting them further to the left!
 
 [ADVICE_FOUND_PLANT]
-¡Has encontrado una planta Zen!
+You've found a Zen Plant!
 
 [ADVICE_FOUND_CHOCOLATE]
-¡Chocolate!
-¡Daselo a Stinky para que corra mas por un tiempo!
+Chocolate!
+Give it to Stinky to make him run faster for a while!
 
 [ADVICE_STINKY_SLEEPING]
-¡Stinky esta dormido! ¡Clic para despertarlo!
+Stinky is asleep! Click to wake him up!
 
 [START_ONSLAUGHT]
-Comenzar
+Start
 
 [CONTINUE_ONSLAUGHT]
-Continuar masacre
+Continue massacre
 
 [LAST_STAND_DEATH_MESSAGE]
-¡¡Has sobrevivido a {FLAGS}!!
+You have survived {FLAGS}!!
 
 [SUCCESSFULLY_DEFENDED]
-{FLAGS} bien defendidas
+{FLAGS} successfully defended
 
 [FLAGS_COMPLETED]
-{FLAGS} completadas
+{FLAGS} completed
 
 [I_ZOMBIE_1]
-Yo, Zombi
+Me, Zombie
 
 [I_ZOMBIE_2]
-Yo tambien, Zombi
+Me too, Zombie
 
 [I_ZOMBIE_3]
-Estas 'acavado'
+You're done for.
 
 [I_ZOMBIE_4]
-Poco ruido y mucha nueces
+Little noise and lots of nuts.
 
 [I_ZOMBIE_5]
-99 red balloons
+99 red balloons.
 
 [I_ZOMBIE_6]
-Arrasando
+Ripping it up.
 
 [I_ZOMBIE_7]
-Zombi dance
+Zombie dance.
 
 [I_ZOMBIE_8]
-6 tontos muy tontos
+6 very silly fools
 
 [I_ZOMBIE_9]
-Cerebros, para que los quiero
+Brains, what do I want them for?
 
 [I_ZOMBIE_ENDLESS]
-Yo, Zombi infinito
+Me, Endless Zombie
 
 [UNLOCKED_I_ZOMBIE_LEVEL]
-¡Has desbloqueado un nuevo
-nivel de Yo, Zombi!
+You've unlocked a new
+level of Me, Zombie!
 
 [UNLOCKED_VASEBREAKER_LEVEL]
-¡Has desbloqueado un nuevo
-nivel de Rompejarrones!
+You have unlocked a new
+level of Vase Breaker!
 
 [EARN_MORE_TROPHIES_FOR_ENDLESS_SURVIVAL]
-Gana mas trofeos de Supervivencia y desbloquea el modo infinito.
+Earn more Survival trophies and unlock Endless mode.
 
 [YOU_UNLOCKED_A_SURVIVAL]
-¡Has desbloqueado una nueva Supervivencia!
+You have unlocked a new Survival!
 
 [YOU_UNLOCKED_ENDLESS_SURVIVAL]
-¡Has desbloqueado Supervivencia Infinita!
+You have unlocked Endless Survival!
 
 [NOT_ENCOUNTERED_YET]
-(no encontrado aun)
+(not encountered yet)
 
 [CLICK_TO_CONTINUE]
-Haz clic para continuar
+Click to continue
 
 [SOLD_OUT]
-Agot.
+Sold out.
 
 [COMING_SOON]
-Proxim.
+Coming soon.
 
 [ZEN_ONLY_AQUATIC_PLANTS]
-Solo puedes tener plantas acuaticas aqui. ¡Bajo el agua!
+You can only have aquatic plants here. Underwater!
 
 [RESTART_LEVEL_HEADER]
-¿Reiniciar nivel?
+Restart level?
 
 [RESTART_PUZZLE_HEADER]
-¿Reiniciar Puzzle?
+Restart puzzle?
 
 [RESTART_CHALLENGE_HEADER]
-¿Reiniciar Reto?
+Restart challenge?
 
 [RESTART_SURVIVAL_HEADER]
-¿Reiniciar Supervivencia?
+Restart Survival?
 
 [RESTART_LEVEL_BODY]
-¿Quieres recomenzar el nivel
-desde el principio?
+Do you want to restart the level
+from the beginning?
 
 [RESTART_PUZZLE_BODY]
-¿Quieres recomenzar el Puzzle
-desde el principio?
+Do you want to restart the Puzzle
+from the beginning?
 
 [RESTART_CHALLENGE_BODY]
-¿Quieres recomenzar el Reto
-desde el principio?
+Do you want to restart the Challenge
+from the beginning?
 
 [RESTART_SURVIVAL_BODY]
-¿Quieres recomenzar la Supervivencia
-desde el principio?
+Do you want to restart Survival
+from the beginning?
 
 [SILVER_SUNFLOWER_TOOLTIP]
-¡Consigue todos los trofeos de Minijuegos, Puzzles y Supervivencia para alzarte con el trofeo Girasol de oro!
+Get all the Minigames, Puzzles, and Survival trophies to win the Golden Sunflower trophy!
 
 [GOLD_SUNFLOWER_TOOLTIP]
-¡Aventura completada
-1 vez!
+Adventure completed
+1 time!
 
 [GOLD_SUNFLOWER_TOOLTIP_PLURAL]
-¡Aventura completada
-{COUNT} veces!
+Adventure completed
+{COUNT} times!
 
 [TREE_OF_WISDOM_1]
-¡Gracias por cuidarme! Sigue dandome abono y te podre dar informacion muy util.
+Thank you for taking care of me! Keep giving me fertilizer and I'll give you some very useful information.
 
 [TREE_OF_WISDOM_2]
-La Planta carronivora y la Nuez forman un gran equipo juntas. Normal: compartian piso en la universidad.
+The Carnivorous Plant and the Nut make a great team together. Normal: They shared an apartment in college.
 
 [TREE_OF_WISDOM_3]
-Si de verdad escuchas todo lo que digo, presta atencion: te interesa tener dos columnas de Girasoles. En serio. 
+If you really listen to everything I say, pay attention: You want to have two columns of Sunflowers. Seriously. 
 
 [TREE_OF_WISDOM_4]
-Zombis buzos... Los odio. Lo mejor para pararlos: Nueces sobre Nenufares.
+Zombie divers... I hate them. The best way to stop them: Walnuts on Water Lilies.
 
 [TREE_OF_WISDOM_5]
-¡Tss! ¡Tss! Escribe 'future' mientras juegas para ver a los zombis... ¡del futuro!
+Tss! Tss! Type ‘future’ while playing to see zombies... from the future!
 
 [TREE_OF_WISDOM_6]
-¿Cuantas Petacerezas son necesarias para acabar con un Zombistein? Te dare una pista: mas de una, pero menos de tres... Otra pista mejor: dos.
+How many Petacerezas does it take to kill a Zombistein? I'll give you a hint: more than one, but less than three... Another hint: two.
 
 [TREE_OF_WISDOM_7]
-Si buscas Setas para tu Jardin Zen, tendras mas suerte en niveles de noche.
+If you're looking for Mushrooms for your Zen Garden, you'll have better luck in night levels.
 
 [TREE_OF_WISDOM_8]
-Yo no me preocuparia por danar el terreno con Petasetas: el jardin se recupera el solito.
+I wouldn't worry about damaging the ground with Petasetas: the garden recovers on its own.
 
 [TREE_OF_WISDOM_9]
-¿Haz hecho clic en las flores del menu principal? ¡Pues hazlo! Yo aqui te espero.
+Have you clicked on the flowers in the main menu? Well, do it! I'll wait here for you.
 
 [TREE_OF_WISDOM_10]
-Cuenta la leyenda que los zombis congelados comen mas despacio. Y yo ratifico que es un hecho cientifico.
+Legend has it that frozen zombies eat more slowly. And I can confirm that this is a scientific fact.
 
 [TREE_OF_WISDOM_11]
-¿Has oido hablar del esquivadizo Zombi Yeti? Dice que le gusta esconderse en lugares oscuros.
+Have you heard of the elusive Zombie Yeti? They say it likes to hide in dark places.
 
 [TREE_OF_WISDOM_12]
-¿Que hay mas barato que gratis? ¡Nada! ¡Por eso las Setas deseporadas son esenciales de noche!
+What's cheaper than free? Nothing! That's why Desperate Mushrooms are essential at night!
 
 [TREE_OF_WISDOM_13]
-¿Esperas encontrar plantas acuaticas para tu Jardin Zen? Me juego mis floemas a que tendras mas suerte buscando en piscinas.
+Hoping to find aquatic plants for your Zen Garden? I'd bet my phloems you'll have better luck looking in swimming pools.
 
 [TREE_OF_WISDOM_14]
-¿Has visto que Zombistein a veces usa OTROS ZOMBIS para aplastar tus plantas? Lo que sea con tal de asaltar.
+Have you noticed that Zombistein sometimes uses OTHER ZOMBIES to crush your plants? Anything to get his loot.
 
 [TREE_OF_WISDOM_15]
-A Stinky el caracol le chifla el chocolate. Igual le pierde demasiado, ¿sabes? Lo que pasa es que se pone como una moto... Luego no para.
+Stinky the snail loves chocolate. Maybe he loves it a little too much, you know? The thing is, it makes him go crazy... Then he can't stop.
 
 [TREE_OF_WISDOM_16]
-Si pensabas que en Supervivencia Infinita solo aparecian plantas de piscina para tu Jardin Zen, te equivocas: ¡aparecen de todos los tipos!
+If you thought that only pool plants appeared in Endless Survival for your Zen Garden, you're wrong: all kinds of plants appear!
 
 [TREE_OF_WISDOM_17]
-La pregunta no deberia ser '¿donde encuentro Chocolate?', sino mas bien '¿donde NO encuentro Chocolate?': ¡Puede aparecer en cualquier nivel!
+The question shouldn't be “Where can I find chocolate?”, but rather “Where can't I find chocolate?” It can appear in any level!
 
 [TREE_OF_WISDOM_18]
-¿Comepiedras, eh? Eligelos unicamente cuando veas que hay lapidas en la parte derecha con los zombis. Es lo que yo hago.
+Stone Eaters, huh? Only choose them when you see gravestones on the right side with the zombies. That's what I do.
 
 [TREE_OF_WISDOM_19]
-He oido por ahi que el Zombi caracubo aguanta 5 veces mas danos que el Zombi comun.
+I've heard that the Caracubo Zombie can withstand 5 times more damage than the common Zombie.
 
 [TREE_OF_WISDOM_20]
-Dicen que si escribes 'moustache' los no muertos sufriran una terrible transformacion.
+They say that if you write “moustache,” the undead will undergo a terrible transformation.
 
 [TREE_OF_WISDOM_21]
-¿Si disparas con varios Hielaguisantes, se frenaran mas los zombis? La respuesta a este dilema es... 'no'.
+If you shoot with several Ice Creams, will the zombies slow down more? The answer to this dilemma is... “no.”
 
 [TREE_OF_WISDOM_22]
-Ya sabes que los zombis salen de las lapidas, ¿no? Entonces, ¿por que no las quitas usando Comepiedras en la Supervivencia de noche? ¿Por orgullo?
+You know that zombies come out of gravestones, right? So why don't you remove them using Stone Eaters in Night Survival? Out of pride?
 
 [TREE_OF_WISDOM_23]
-Si quieres saber lo largo que es un nivel, cuenta las banderas de la barra inferior. Es un indicador infalible.
+If you want to know how long a level is, count the flags on the bottom bar. It's a foolproof indicator.
 
 [TREE_OF_WISDOM_24]
-Limpiatejados. Un clasico. Todo lo que yo te diga, es poco. ¿Lo mejor de ellos? Que te seran muy utiles contra Zombis saltarines.
+Clean them up. A classic. Everything I tell you is an understatement. The best thing about them? They'll be very useful against jumping zombies.
 
 [TREE_OF_WISDOM_25]
-¿Si le das una Hipnoseta a un Zombi bailon, sus Zombis extra tambien lucharan por ti? Piensa... La respuesta correcta es 'si'.
+If you give a Hypno-Seed to a dancing Zombie, will its extra Zombies also fight for you? Think... The correct answer is ‘yes’.
 
 [TREE_OF_WISDOM_26]
-¡Gana dinero rapido jugando a Supervivencia Infinita! Y luego me pasas tus datos bancarios...
+Earn money fast by playing Endless Survival! And then give me your bank details...
 
 [TREE_OF_WISDOM_27]
-Si crees que la Plantorcha descongela los disparos del Hielaguisantes; amigo, deja que te diga que un cerebrito.
+If you think the Plantorch thaws the Icebiter's shots, my friend, let me tell you something: you're a genius.
 
 [TREE_OF_WISDOM_28]
-¡Esos pesados Vegezombis! ¿Que se habran creido? ¿Disparando a tus plantas? Ya les vendria bien una Nuez que les parara los pies.
+Those pesky Vegezombies! What are they thinking, shooting at your plants? They could use a Nut to stop them in their tracks.
 
 [TREE_OF_WISDOM_29]
-Los minijuegos Carrera de bobsleigh y Saltimbanquis son muy, muy, muy, pero que muy dificiles. ¿Quieres quitar un 'muy'? Pues usa Apisonaflores.
+The Bobsled Race and Acrobats mini-games are very, very, very, very difficult. Want to remove a “very”? Then use Flower Stompers.
 
 [TREE_OF_WISDOM_30]
-Justo cuando pensabas que los Jalapenos no tenian mas usos, va el Arbol de la sabiduria y te sopla que tambien deshacen los rastros de hielo!
+Just when you thought Jalapenos had no other uses, the Tree of Wisdom tells you that they also melt ice!
 
 [TREE_OF_WISDOM_31]
-Cuando hayas adquirido la Imitadora, haz clic su silueta situada arriba a la izquierda en el Almanaque para ver su descripcion.
+Once you have acquired the Imitator, click on its silhouette in the upper left corner of the Almanac to see its description.
 
 [TREE_OF_WISDOM_32]
-La cantidad de monedas que recibes en La bolera es directamente proporcional a tu habilidad en funcion del numero de rebotes que consigas por Nuez.
+The amount of coins you receive at the Bowling Alley is directly proportional to your skill, based on the number of bounces you get per Nut.
 
 [TREE_OF_WISDOM_33]
-¡No golpees el cristal! Bueno, ¿y por que no? Adelante, haz clic derecho en tu Acuario Zen o en Zombiquarium para dejar sordos a los zombis.
+Don't hit the glass! Well, why not? Go ahead, right-click on your Zen Aquarium or Zombiquarium to deafen the zombies.
 
 [TREE_OF_WISDOM_34]
-Cuando yo aun era un bellota, mi padre me dijo: 'Hijo mio, los puzzles Rompejarrones son mas faciles si empiezas a romper por la derecha.'
+When I was still an acorn, my father told me, “My son, Rompejarrones puzzles are easier if you start breaking on the right.”
 
 [TREE_OF_WISDOM_35]
-Los Zombis bailones en Yo, Zombi pueden parecer caros, pero si los situas bien, te saldran rentables.
+The dancing zombies in Yo, Zombie may seem expensive, but if you place them well, they will pay for themselves.
 
 [TREE_OF_WISDOM_36]
-He tenido un sueno muy raro: los Rabos de gato reventaban globos y los zombis caian al suelo. No se que significara.
+I had a very strange dream: cattails popped balloons and zombies fell to the ground. I don't know what it meant.
 
 [TREE_OF_WISDOM_37]
-Poner plantas acuaticas en tu Jardin Zen es mision imposible sin un Acuario Zen. Avisado quedas.
+Putting aquatic plants in your Zen Garden is mission impossible without a Zen Aquarium. You've been warned.
 
 [TREE_OF_WISDOM_38]
-Los zombis Paletos van contra su propia naturaleza de ir por encima de la superficie, asi que usa Magnetosetas para desarmarlos.
+Redneck zombies go against their own nature of staying above ground, so use Magneto-mushrooms to disarm them.
 
 [TREE_OF_WISDOM_39]
-Cada dia hay nuevos retos y nuevas oportunidades. Ah, ¡y nuevas Margaritas en la Tienda de Dave!
+Every day brings new challenges and new opportunities. Oh, and new daisies at Dave's Shop!
 
 [TREE_OF_WISDOM_40]
-¡El Jardin de Setas! ¿Para que sirve eso? ¡Para nada!... Bueno, excepto para criar seta, claro.
+The Mushroom Garden! What's that for? Nothing! Well, except for growing mushrooms, of course.
 
 [TREE_OF_WISDOM_41]
-¿Fatiga? ¿Depresion? ¿Superan a tus Nueces cascara-rabias con escaleras? Una buena Magnetoseta y listos.
+Fatigue? Depression? Are your Nutcrackers getting the better of you with ladders? A good Magneto-mushroom and you're good to go.
 
 [TREE_OF_WISDOM_42]
-La talla de la Nuez cascara-rabias es conocida por su efectividad contra Zombis saltarines y Zombis con delfin.
+The Nutcracker is known for its effectiveness against Jumping Zombies and Dolphin Zombies.
 
 [TREE_OF_WISDOM_43]
-La explosion de una Petacereza o un Jalapeno es mas que suficiente para derribar una escalera en una Muronuez.
+The explosion of a Cherry Bomb or a Jalapeno is more than enough to knock down a ladder on a Muronuez.
 
 [TREE_OF_WISDOM_44]
-Es una tentacion darle todo el chocolate a Stinky el caracol. Se pone tan contento... Pero recuerda: ¡a las plantas Zen tambien les gusta!
+It's tempting to give all the chocolate to Stinky the snail. It makes him so happy... But remember: Zen plants like it too!
 
 [TREE_OF_WISDOM_45]
-La Plantorcha quema mas que la rabia, pero Zombictores, puertas, escaleras y Zombipultas resisten el calor.
+The Plantorch burns hotter than rage, but Zombictors, doors, ladders, and Zombipults can withstand the heat.
 
 [TREE_OF_WISDOM_46]
-Si confias en las plantas mejoradas para Supervivencia Infinita, ten en cuenta que seran mas caras cuantas mas haya en el jardin.
+If you rely on upgraded plants for Infinite Survival, keep in mind that they will be more expensive the more you have in your garden.
 
 [TREE_OF_WISDOM_47]
-Los Zombiditos de Yo, Zombi parecen poca cosa. Pero son rapidos y habiles en alcanzar el ultimo cerebro cuando hayas terminado con todos.
+The Little Zombies in Yo, Zombie seem like no big deal. But they're fast and skilled at reaching the last brain when you've finished off all the others.
 
 [TREE_OF_WISDOM_48]
-Si escribes 'trickedout' luego no te sorprendas si les pasa algo a tus cortadoras de cesped.
+If you type ‘trickedout,’ don't be surprised if something happens to your lawnmowers.
 
 [TREE_OF_WISDOM_49]
-¡Gracias por cuidarme! No se nada nuevo, ¡pero puede que aprenda mas cosas si me haces crecer lo suficiente!
+Thanks for taking care of me! I don't know anything new, but I might learn more if you let me grow enough!
 
 [TREE_OF_WISDOM_101]
-Mmm, como me apetece abono... ¡Que rico!
+Mmm, I'm craving fertilizer... Yum!
 
 [TREE_OF_WISDOM_102]
-Creo que ya he visto esa nube antes.
+I think I've seen that cloud before.
 
 [TREE_OF_WISDOM_103]
-Como si no estuviera. Yo aqui me quedo, creciendo.
+As if I weren't here. I'm staying right here, growing.
 
 [TREE_OF_WISDOM_104]
-¡Estoy metabolizando como un loco!
+My metabolism is going crazy!
 
 [TREE_OF_WISDOM_105]
-Nunca entendere por que los animales os moveis todo el dia.
+I'll never understand why animals move around all day long.
 
 [TREE_OF_WISDOM_106]
-¡Para mi el tiempo pasa mucho mas despacio que para ti!
+Time passes much more slowly for me than it does for you!
 
 [TREE_OF_WISDOM_107]
-¡Creo que soy perenne!
+I think I'm perennial!
 
 [TREE_OF_WISDOM_108]
-¡Me pican mis xilemas!
+My xylem is itching!
 
 [TREE_OF_WISDOM_109]
-Puedes adquirir mucha sabiduria simplemente por estar.
+You can gain a lot of wisdom just by being.
 
 [TREE_OF_WISDOM_110]
-Me han dicho que viene un tal 'Invierno'. No es que me apetezca mucho, la verdad.
+I've been told that something called “Winter” is coming. I'm not really looking forward to it, to be honest.
 
 [TREE_OF_WISDOM_201]
-Mmm... Luz solar, ¡que delicia!
+Mmm... Sunlight, how delightful!
 
 [TREE_OF_WISDOM_202]
-Uy, perdon... se me ha escapado un poco de oxigeno.
+Oops, sorry... I let a little oxygen escape.
 
 [TREE_OF_WISDOM_203]
-¡Dios! ¡No me salen hojas!
+Oh no! I can't grow leaves!
 
 [TREE_OF_WISDOM_204]
-¡Creo que estoy dando un estiron!
+I think I'm growing!
 
 [TREE_OF_WISDOM_205]
-¡De momento carezco de saber mundano!
+At the moment, I lack worldly knowledge!
 
 [TREE_OF_WISDOM_301]
-¡Te agradezco mucho todo lo que te has dejado en abonos!
+I really appreciate all the fertilizer you've given me!
 
 [TREE_OF_WISDOM_302]
-¡Esa nube es clavadita a un enorme conglomerado de gotitas!
+That cloud looks just like a huge cluster of droplets!
 
 [TREE_OF_WISDOM_303]
-¿Conoces a mi primo Yggdrasil? Todo un idolo de masas en Suecia.
+Do you know my cousin Yggdrasil? He's a huge idol in Sweden.
 
 [TREE_OF_WISDOM_304]
-Me saco la carrera de sociologia por Internet. La de cosas que aprendo.
+I'm doing my sociology degree online. I'm learning so much.
 
 [TREE_OF_WISDOM_305]
-Tras muchas observaciones puedo afirmar que es la Tierra la que gira alrededor del Sol y no al contrario, pese a las apariencias.
-
+After much observation, I can confirm that it is the Earth that revolves around the Sun and not the other way around, despite appearances.
 [TREE_OF_WISDOM_401]
-Cuando llevas tanto tiempo en este mundo como yo, duermes menos, pero alucinas mas.
+When you've been in this world as long as I have, you sleep less, but you hallucinate more.
 
 [TREE_OF_WISDOM_402]
-¿Por que 'separado' se escribe todo junto y 'todo junto' se escribe separado?
+Why is “separado” written together and “todo junto” written separately?
 
 [TREE_OF_WISDOM_403]
-La historia siempre se repite, pero se equivoca de datos.
+History always repeats itself, but it gets the facts wrong.
 
 [TREE_OF_WISDOM_404]
-Si el pasado, presente y futuro coexisten a la vez como unida temporal, seguro que el 'ahora' no es mas que una mera ilusion.
+If the past, present, and future coexist at the same time as a temporal unity, surely the ‘now’ is nothing more than a mere illusion.
 
 [TREE_OF_WISDOM_405]
-Tener arrojo es facil; constancia, no tanto.
+Being bold is easy; perseverance, not so much.
 
 [TREE_OF_WISDOM_500]
-He aqui el saber popular de los osos...
+Here is the popular wisdom of bears...
 
 [TREE_OF_WISDOM_600]
-¡Comida del arbol!
+Food from the tree!
 
 [TREE_OF_WISDOM_800]
-¡Vaya! ¡Mido 30 metros de altura! Celebralo conmigo escribiendo 'daisies' para que de los zombis vencidos broten margaritas.
+Wow! I'm 30 meters tall! Celebrate with me by typing ‘daisies’ to make daisies sprout from the defeated zombies.
 
 [TREE_OF_WISDOM_900]
-¡Mira tu! ¡Ya mido 150 metros! ¡Eso se merece un baile! Escribe 'dance' y los zombis se marcaran un bailoteo.
+Look at you! I'm already 150 meters tall! That deserves a dance! Type ‘dance’ and the zombies will break into a dance.
 
 [TREE_OF_WISDOM_1000]
-¡YEEEPA! ¡Ya mido 300 metros! ¡Celebremoslo juntos escribiendo 'pinata' para que los zombis dejen dulces al caer!
+YEEEPA! I'm already 300 meters tall! Let's celebrate together by typing ‘pinata’ so the zombies drop candy when they fall!
 
 [TREE_OF_WISDOM_1100]
-¡Gracias por cuidar de mi! Ya te he ensenado todo lo que se, ¡pero aun puedo crecer mas!
+Thank you for taking care of me! I've taught you everything I know, but I can still grow more!
 
-[TREE_OF_WISDOM_HIEGHT]
-{HEIGHT} metros
+[TREE_OF_WISDOM_HEIGHT]
+{HEIGHT} meters
 
 [UNLOCKED_MINIGAMES]
-¡Minijuegos disponibles!
-¡Juega desde el menu principal!
+Minigames available!
+Play from the main menu!
 
 [UNLOCKED_PUZZLE_MODE]
-¡Puzzles disponibles!
-¡Juega desde el menu principal!
+Puzzles available!
+Play from the main menu!
 
 [UNLOCKED_SURVIVAL_MODE]
-¡Supervivencia disponible!
-¡Juega desde el menu principal!
+Survival available!
+Play from the main menu!
 
 [CREDITS_GAMENAME]
 PLANTS VS. ZOMBIES
@@ -2980,14 +2973,14 @@ LEONEL RUANO FULL
 {CREDITS1}GAME DESIGN
 
   
-TRADUCCION AL SPANISH  
+TRANSLATION INTO SPANISH  
 
 
 
 
 [CREDITS_NAMES2]
 {CREDITS2}NOPOR
-PARA MAS MODS :v
+FOR MORE MODS :v
 SHAWN CONARD, ANAL PORN, ADAM MACDONNELL
 BRIAN FIETE, CHRIS HARGROVE, DAVID PARTON
 PUSSY MY ASS
@@ -2998,72 +2991,72 @@ POPCAP BETA TESTERS
 
 [CREDITS_ROLES2]
 {CREDITS2}STUDIO DIRECTOR
-SUSCRIBETE
+SUBSCRIBE
 
 POPCAP FRAMEWORK
 
-GRACIAS POR DESCARGAR
+THANKS FOR DOWNLOADING
 
 [CREDITS_THANKS]
-¡GRACIAS POR JUGAR!
+THANKS FOR PLAYING!
 
 [CREDITS_REPLAY_BUTTON]
-REPETIR
+REPLAY
 
 [CREDITS_MAIN_MENU_BUTTON]
-MENU PRINC.
+MAIN MENU
 
 [VISIT_TREE_HEADER]
-¿Visitar Arbol?
+Visit Tree?
 
 [VISIT_TREE_BODY]
-¿Quieres ir a ver al Arbol de la sabiduria?
+Want to go see the Tree of Wisdom?
 
 [CREDITS_PAUSE_HEADER]
-PAUSA EN CREDITOS
+PAUSE CREDITS
 
 [CREDITS_PAUSE_BODY]
-Haz clic para seguir viendolos.
+Click to continue viewing.
  
-Tambien puedes verlos cuando quieras
-desde las opciones del menu principal.
+You can also view them anytime
+from the main menu options.
 
 [CREDITS_RESUME_BUTTON]
-Volver
+Back
 
 [GET_FULL_VERSION_BUTTON]
-Obten version completa
+Get full version
 
 [UPSELL_PAUSE_HEADER]
-DETENIDO
+PAUSED
 
 [UPSELL_PAUSE_BODY]
-Haz clic para continuar
+Click to continue
 
 [UPSELL_RESUME_BUTTON]
-Reanudar
+Resume
 
 [INTRO_PRESENTS]
-PopCap Games presenta
+PopCap Games presents
 
 [CANT_USE_CODE]
-¡No tienes un Arbol de la sabiduria lo bastante alto!
+Your Tree of Wisdom isn't tall enough!
 
 [ADVENTURE_COMPLETE_HEADER]
-Aventura completada
+Adventure Complete
 
 [ADVENTURE_COMPLETE_BODY]
-¡Nuevos modos de Minijuegos, Puzzles y Supervivencia desbloqueados! ¡Y mira lo ultimo en la tienda de Crazy Dave!
+New Minigame, Puzzle, and Survival modes unlocked! And check out the latest in Crazy Dave's store!
 
 [ADVICE_NEED_WHEELBARROW]
-Para trasplantar tus plantas de jardin,
-comprate una carretilla en la tienda.
+To transplant your garden plants,
+buy a wheelbarrow from the store.
 
 [AVAILABLE_IN_FULL_VERSION]
-¡Planta solo disponible en la version completa!
+Plant only available in the full version!
 
 [REPLAY_LEVEL_HEADER]
-¿Volver a jugar?
+Play again?
 
 [REPLAY_LEVEL_BODY]
-¿Quieres volver a jugar el nivel 3-4?
+Want to replay level 3-4?
